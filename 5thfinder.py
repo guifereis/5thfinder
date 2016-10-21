@@ -18,15 +18,18 @@ for row in csv.reader(open("airports.dat", "rb"), delimiter=","): # col 3 is cou
 
 
 def printFifthFreedoms(fifthFreedoms):
+    fileWriter = csv.writer(open("5thfreedoms.csv", "wb"), delimiter=",")
     for ii in xrange(0, len(fifthFreedoms)):
         srcID = fifthFreedoms[ii][0]
         destID = fifthFreedoms[ii][1]
         airlineID = fifthFreedoms[ii][2]
         if "\N" in airlineIDToNameString[airlineID]:
             continue
-        distance = haversine(airportIDToLatLong[srcID], airportIDToLatLong[destID])
+        distance = round(haversine(airportIDToLatLong[srcID], airportIDToLatLong[destID]))
         print "Found 5th freedom: " + airportIDToNameString[srcID]+" ("+airportIDToCountryString[srcID]+")" + " -> " + airportIDToNameString[destID]+" ("+airportIDToCountryString[destID]+")" + " ("+str(int(round(distance)))+" km)" + \
         " on airline "+airlineIDToNameString[airlineID]+" from "+airlineIDToCountryString[airlineID]
+        fileWriter.writerow([srcID, destID, airlineID, airportIDToNameString[srcID], airportIDToCountryString[srcID], airportIDToNameString[destID], airportIDToCountryString[destID], airlineIDToNameString[airlineID], airlineIDToCountryString[airlineID], distance])
+        #fileWriter.writerow([srcID, destID])
 
 
     

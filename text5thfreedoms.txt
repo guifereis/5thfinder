@@ -1,0 +1,1600 @@
+Found 5th freedom: MCM (Monaco) -> NCE (France) (18 km) on airline  from Brazil
+Found 5th freedom: NCE (France) -> MCM (Monaco) (18 km) on airline  from Brazil
+Found 5th freedom: AXA (Anguilla) -> SXM (Netherlands Antilles) (19 km) on airline Sochi Air  from Russia
+Found 5th freedom: SXM (Netherlands Antilles) -> AXA (Anguilla) (19 km) on airline Sochi Air  from Russia
+Found 5th freedom: BZV (Congo (Brazzaville)) -> FIH (Congo (Kinshasa)) (26 km) on airline  from Cameroon
+Found 5th freedom: EIS (British Virgin Islands) -> STT (Virgin Islands) (47 km) on airline TUR European Airways from Turkey
+Found 5th freedom: STT (Virgin Islands) -> EIS (British Virgin Islands) (47 km) on airline TUR European Airways from Turkey
+Found 5th freedom: STT (Virgin Islands) -> VIJ (British Virgin Islands) (59 km) on airline TUR European Airways from Turkey
+Found 5th freedom: VIJ (British Virgin Islands) -> STT (Virgin Islands) (59 km) on airline TUR European Airways from Turkey
+Found 5th freedom: FDF (Martinique) -> SLU (Saint Lucia) (63 km) on airline  from Guadeloupe
+Found 5th freedom: SLU (Saint Lucia) -> FDF (Martinique) (63 km) on airline  from Guadeloupe
+Found 5th freedom: DOM (Dominica) -> PTP (Guadeloupe) (84 km) on airline  from Netherlands Antilles
+Found 5th freedom: PTP (Guadeloupe) -> DOM (Dominica) (84 km) on airline  from Netherlands Antilles
+Found 5th freedom: BHD (United Kingdom) -> IOM (Isle of Man) (100 km) on airline  from Lithuania
+Found 5th freedom: IOM (Isle of Man) -> BHD (United Kingdom) (100 km) on airline  from Lithuania
+Found 5th freedom: SJU (Puerto Rico) -> STT (Virgin Islands) (109 km) on airline TUR European Airways from Turkey
+Found 5th freedom: STT (Virgin Islands) -> SJU (Puerto Rico) (109 km) on airline TUR European Airways from Turkey
+Found 5th freedom: BLK (United Kingdom) -> IOM (Isle of Man) (110 km) on airline  from Lithuania
+Found 5th freedom: IOM (Isle of Man) -> BLK (United Kingdom) (110 km) on airline  from Lithuania
+Found 5th freedom: ANU (Antigua and Barbuda) -> SBH (France) (139 km) on airline  from United States
+Found 5th freedom: SBH (France) -> ANU (Antigua and Barbuda) (139 km) on airline  from United States
+Found 5th freedom: BAH (Bahrain) -> DOH (Qatar) (146 km) on airline Swiss Airlines from Switzerland
+Found 5th freedom: DOH (Qatar) -> BAH (Bahrain) (146 km) on airline Swiss Airlines from Switzerland
+Found 5th freedom: DOH (Qatar) -> BAH (Bahrain) (146 km) on airline PIA Pakistan International from Pakistan
+Found 5th freedom: EIS (British Virgin Islands) -> SXM (Netherlands Antilles) (158 km) on airline TUR European Airways from Turkey
+Found 5th freedom: SXM (Netherlands Antilles) -> EIS (British Virgin Islands) (158 km) on airline TUR European Airways from Turkey
+Found 5th freedom: BJL (Gambia) -> DKR (Senegal) (180 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: DKR (Senegal) -> BJL (Gambia) (180 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: STT (Virgin Islands) -> SXM (Netherlands Antilles) (200 km) on airline TUR European Airways from Turkey
+Found 5th freedom: SXM (Netherlands Antilles) -> STT (Virgin Islands) (200 km) on airline TUR European Airways from Turkey
+Found 5th freedom: IOM (Isle of Man) -> NCL (United Kingdom) (217 km) on airline  from Lithuania
+Found 5th freedom: NCL (United Kingdom) -> IOM (Isle of Man) (217 km) on airline  from Lithuania
+Found 5th freedom: CAP (Haiti) -> PLS (Turks and Caicos Islands) (227 km) on airline  from Italy
+Found 5th freedom: PLS (Turks and Caicos Islands) -> CAP (Haiti) (227 km) on airline  from Italy
+Found 5th freedom: CAP (Haiti) -> PLS (Turks and Caicos Islands) (227 km) on airline  from United States
+Found 5th freedom: PLS (Turks and Caicos Islands) -> CAP (Haiti) (227 km) on airline  from United States
+Found 5th freedom: SBH (France) -> STT (Virgin Islands) (231 km) on airline  from United States
+Found 5th freedom: STT (Virgin Islands) -> SBH (France) (231 km) on airline  from United States
+Found 5th freedom: CCU (India) -> DAC (Bangladesh) (239 km) on airline Rainbow Air POL from United States
+Found 5th freedom: DAC (Bangladesh) -> CCU (India) (239 km) on airline Rainbow Air POL from United States
+Found 5th freedom: JBQ (Dominican Republic) -> PAP (Haiti) (243 km) on airline  from United States
+Found 5th freedom: PAP (Haiti) -> JBQ (Dominican Republic) (243 km) on airline  from United States
+Found 5th freedom: EIS (British Virgin Islands) -> NEV (Saint Kitts and Nevis) (248 km) on airline TUR European Airways from Turkey
+Found 5th freedom: COQ (Mongolia) -> NZH (China) (253 km) on airline Homer Sky from Germany
+Found 5th freedom: NZH (China) -> COQ (Mongolia) (253 km) on airline Homer Sky from Germany
+Found 5th freedom: CPH (Denmark) -> HAM (Germany) (280 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: HAM (Germany) -> CPH (Denmark) (280 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> HAM (Germany) (280 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: HAM (Germany) -> CPH (Denmark) (280 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> FRA (Germany) (281 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: FRA (Germany) -> BSL (Switzerland) (281 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: NEV (Saint Kitts and Nevis) -> STT (Virgin Islands) (282 km) on airline TUR European Airways from Turkey
+Found 5th freedom: STT (Virgin Islands) -> NEV (Saint Kitts and Nevis) (282 km) on airline TUR European Airways from Turkey
+Found 5th freedom: PLS (Turks and Caicos Islands) -> POP (Dominican Republic) (285 km) on airline  from Italy
+Found 5th freedom: POP (Dominican Republic) -> PLS (Turks and Caicos Islands) (285 km) on airline  from Italy
+Found 5th freedom: GLO (United Kingdom) -> IOM (Isle of Man) (294 km) on airline  from Lithuania
+Found 5th freedom: IOM (Isle of Man) -> GLO (United Kingdom) (294 km) on airline  from Lithuania
+Found 5th freedom: GUA (Guatemala) -> SAP (Honduras) (296 km) on airline  from United States
+Found 5th freedom: SAP (Honduras) -> GUA (Guatemala) (296 km) on airline  from United States
+Found 5th freedom: GVA (Switzerland) -> NCE (France) (300 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NCE (France) -> GVA (Switzerland) (300 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SJU (Puerto Rico) -> SXM (Netherlands Antilles) (309 km) on airline TUR European Airways from Turkey
+Found 5th freedom: SXM (Netherlands Antilles) -> SJU (Puerto Rico) (309 km) on airline TUR European Airways from Turkey
+Found 5th freedom: AXA (Anguilla) -> SJU (Puerto Rico) (312 km) on airline  from United States
+Found 5th freedom: SJU (Puerto Rico) -> AXA (Anguilla) (312 km) on airline  from United States
+Found 5th freedom: PLS (Turks and Caicos Islands) -> STI (Dominican Republic) (315 km) on airline  from Italy
+Found 5th freedom: STI (Dominican Republic) -> PLS (Turks and Caicos Islands) (315 km) on airline  from Italy
+Found 5th freedom: BSL (Switzerland) -> MUC (Germany) (328 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MUC (Germany) -> BSL (Switzerland) (328 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: DOM (Dominica) -> SXM (Netherlands Antilles) (338 km) on airline  from Guadeloupe
+Found 5th freedom: SXM (Netherlands Antilles) -> DOM (Dominica) (338 km) on airline  from Guadeloupe
+Found 5th freedom: DOM (Dominica) -> SXM (Netherlands Antilles) (338 km) on airline  from British Virgin Islands
+Found 5th freedom: SXM (Netherlands Antilles) -> DOM (Dominica) (338 km) on airline  from British Virgin Islands
+Found 5th freedom: DOM (Dominica) -> SXM (Netherlands Antilles) (338 km) on airline TUR European Airways from Turkey
+Found 5th freedom: SXM (Netherlands Antilles) -> DOM (Dominica) (338 km) on airline TUR European Airways from Turkey
+Found 5th freedom: KGL (Rwanda) -> EBB (Uganda) (340 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: SBH (France) -> SJU (Puerto Rico) (340 km) on airline  from United States
+Found 5th freedom: SJU (Puerto Rico) -> SBH (France) (340 km) on airline  from United States
+Found 5th freedom: CPH (Denmark) -> TXL (Germany) (343 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: TXL (Germany) -> CPH (Denmark) (343 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MGA (Nicaragua) -> SAL (El Salvador) (345 km) on airline TACA from Costa Rica
+Found 5th freedom: SAL (El Salvador) -> MGA (Nicaragua) (345 km) on airline TACA from Costa Rica
+Found 5th freedom: AUA (Aruba) -> VLN (Venezuela) (347 km) on airline  from Netherlands Antilles
+Found 5th freedom: VLN (Venezuela) -> AUA (Aruba) (347 km) on airline  from Netherlands Antilles
+Found 5th freedom: DXB (United Arab Emirates) -> MCT (Oman) (348 km) on airline Qantas Airways from Australia
+Found 5th freedom: MCT (Oman) -> DXB (United Arab Emirates) (348 km) on airline Qantas Airways from Australia
+Found 5th freedom: CCU (India) -> CGP (Bangladesh) (349 km) on airline Rainbow Air POL from United States
+Found 5th freedom: CGP (Bangladesh) -> CCU (India) (349 km) on airline Rainbow Air POL from United States
+Found 5th freedom: AAL (Denmark) -> OSL (Norway) (352 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> AAL (Denmark) (352 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: PAP (Haiti) -> PLS (Turks and Caicos Islands) (355 km) on airline  from Italy
+Found 5th freedom: PLS (Turks and Caicos Islands) -> PAP (Haiti) (355 km) on airline  from Italy
+Found 5th freedom: NCE (France) -> OLB (Italy) (361 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: OLB (Italy) -> NCE (France) (361 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GUA (Guatemala) -> TGU (Honduras) (361 km) on airline  from United States
+Found 5th freedom: TGU (Honduras) -> GUA (Guatemala) (361 km) on airline  from United States
+Found 5th freedom: CPH (Denmark) -> SXF (Germany) (364 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> CPH (Denmark) (364 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SSG (Equatorial Guinea) -> LBV (Gabon) (375 km) on airline Dennis Sky Holding from Israel
+Found 5th freedom: MLA (Malta) -> TIP (Libya) (375 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: BRE (Germany) -> CPH (Denmark) (380 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> BRE (Germany) (380 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: NEV (Saint Kitts and Nevis) -> SJU (Puerto Rico) (386 km) on airline  from United States
+Found 5th freedom: SJU (Puerto Rico) -> NEV (Saint Kitts and Nevis) (386 km) on airline  from United States
+Found 5th freedom: NEV (Saint Kitts and Nevis) -> SJU (Puerto Rico) (386 km) on airline TUR European Airways from Turkey
+Found 5th freedom: SJU (Puerto Rico) -> NEV (Saint Kitts and Nevis) (386 km) on airline TUR European Airways from Turkey
+Found 5th freedom: AUA (Aruba) -> CCS (Venezuela) (391 km) on airline  from Netherlands Antilles
+Found 5th freedom: CCS (Venezuela) -> AUA (Aruba) (391 km) on airline  from Netherlands Antilles
+Found 5th freedom: GVA (Switzerland) -> ORY (France) (395 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ORY (France) -> GVA (Switzerland) (395 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> GDN (Poland) (395 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: GDN (Poland) -> CPH (Denmark) (395 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: DLA (Cameroon) -> LBV (Gabon) (396 km) on airline SAA South African Airways from South Africa
+Found 5th freedom: LBV (Gabon) -> DLA (Cameroon) (396 km) on airline SAA South African Airways from South Africa
+Found 5th freedom: BLQ (Italy) -> ZAG (Croatia) (398 km) on airline TAP Air Portugal from Portugal
+Found 5th freedom: ZAG (Croatia) -> BLQ (Italy) (398 km) on airline TAP Air Portugal from Portugal
+Found 5th freedom: COQ (Mongolia) -> HLD (China) (398 km) on airline Homer Sky from Germany
+Found 5th freedom: HLD (China) -> COQ (Mongolia) (398 km) on airline Homer Sky from Germany
+Found 5th freedom: CPH (Denmark) -> KRS (Norway) (399 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: KRS (Norway) -> CPH (Denmark) (399 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: ACC (Ghana) -> LOS (Nigeria) (401 km) on airline  from Burma
+Found 5th freedom: LOS (Nigeria) -> ACC (Ghana) (401 km) on airline  from Burma
+Found 5th freedom: CPH (Denmark) -> HAJ (Germany) (401 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: HAJ (Germany) -> CPH (Denmark) (401 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: HRE (Zimbabwe) -> LUN (Zambia) (403 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: LUN (Zambia) -> HRE (Zimbabwe) (403 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: HRE (Zimbabwe) -> LUN (Zambia) (403 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: AZS (Dominican Republic) -> SJU (Puerto Rico) (404 km) on airline  from Italy
+Found 5th freedom: SJU (Puerto Rico) -> AZS (Dominican Republic) (404 km) on airline  from Italy
+Found 5th freedom: FNA (Sierra Leone) -> ROB (Liberia) (410 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: ABJ (Cote d'Ivoire) -> ACC (Ghana) (418 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: ACC (Ghana) -> ABJ (Cote d'Ivoire) (418 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: ABJ (Cote d'Ivoire) -> ACC (Ghana) (418 km) on airline SAA South African Airways from South Africa
+Found 5th freedom: ACC (Ghana) -> ABJ (Cote d'Ivoire) (418 km) on airline SAA South African Airways from South Africa
+Found 5th freedom: NIM (Niger) -> OUA (Burkina Faso) (420 km) on airline  from Senegal
+Found 5th freedom: OUA (Burkina Faso) -> NIM (Niger) (420 km) on airline  from Senegal
+Found 5th freedom: CPH (Denmark) -> TRF (Norway) (422 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: TRF (Norway) -> CPH (Denmark) (422 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BRU (Belgium) -> BSL (Switzerland) (429 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> BRU (Belgium) (429 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> VCE (Italy) (435 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: VCE (Italy) -> BSL (Switzerland) (435 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> NCE (France) (438 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NCE (France) -> BSL (Switzerland) (438 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> POZ (Poland) (448 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: POZ (Poland) -> CPH (Denmark) (448 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: NCE (France) -> VCE (Italy) (456 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: VCE (Italy) -> NCE (France) (456 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FCO (Italy) -> NCE (France) (460 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NCE (France) -> FCO (Italy) (460 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: PLS (Turks and Caicos Islands) -> SDQ (Dominican Republic) (460 km) on airline  from Italy
+Found 5th freedom: SDQ (Dominican Republic) -> PLS (Turks and Caicos Islands) (460 km) on airline  from Italy
+Found 5th freedom: DOM (Dominica) -> EIS (British Virgin Islands) (472 km) on airline TUR European Airways from Turkey
+Found 5th freedom: EIS (British Virgin Islands) -> DOM (Dominica) (472 km) on airline TUR European Airways from Turkey
+Found 5th freedom: GVA (Switzerland) -> TLS (France) (473 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: TLS (France) -> GVA (Switzerland) (473 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LUX (Luxembourg) -> MXP (Italy) (483 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> LUX (Luxembourg) (483 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BAH (Bahrain) -> DXB (United Arab Emirates) (487 km) on airline Qantas Airways from Australia
+Found 5th freedom: DXB (United Arab Emirates) -> BAH (Bahrain) (487 km) on airline Qantas Airways from Australia
+Found 5th freedom: BIA (France) -> GVA (Switzerland) (490 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> BIA (France) (490 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> VCE (Italy) (490 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: VCE (Italy) -> GVA (Switzerland) (490 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BCN (Spain) -> NCE (France) (496 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NCE (France) -> BCN (Spain) (496 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ABZ (United Kingdom) -> SVG (Norway) (497 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: SVG (Norway) -> ABZ (United Kingdom) (497 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: DOM (Dominica) -> STT (Virgin Islands) (499 km) on airline TUR European Airways from Turkey
+Found 5th freedom: STT (Virgin Islands) -> DOM (Dominica) (499 km) on airline TUR European Airways from Turkey
+Found 5th freedom: POP (Dominican Republic) -> SJU (Puerto Rico) (502 km) on airline  from Italy
+Found 5th freedom: SJU (Puerto Rico) -> POP (Dominican Republic) (502 km) on airline  from Italy
+Found 5th freedom: BLL (Denmark) -> OSL (Norway) (508 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> BLL (Denmark) (508 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: SXF (Germany) -> SZG (Austria) (511 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SZG (Austria) -> SXF (Germany) (511 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FRA (Germany) -> LIN (Italy) (512 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: LIN (Italy) -> FRA (Germany) (512 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: LIS (Portugal) -> MAD (Spain) (513 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MAD (Spain) -> LIS (Portugal) (513 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> OSL (Norway) (517 km) on airline PIA Pakistan International from Pakistan
+Found 5th freedom: OSL (Norway) -> CPH (Denmark) (517 km) on airline PIA Pakistan International from Pakistan
+Found 5th freedom: CPH (Denmark) -> OSL (Norway) (517 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> CPH (Denmark) (517 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: FMO (Germany) -> ZRH (Switzerland) (523 km) on airline  from Netherlands
+Found 5th freedom: ZRH (Switzerland) -> FMO (Germany) (523 km) on airline  from Netherlands
+Found 5th freedom: BSL (Switzerland) -> MPL (France) (525 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MPL (France) -> BSL (Switzerland) (525 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: AJA (France) -> GVA (Switzerland) (526 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> AJA (France) (526 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> PLQ (Lithuania) (529 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: PLQ (Lithuania) -> CPH (Denmark) (529 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: GVA (Switzerland) -> LIL (France) (530 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LIL (France) -> GVA (Switzerland) (530 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BRU (Belgium) -> GVA (Switzerland) (532 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> BRU (Belgium) (532 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ABZ (United Kingdom) -> BGO (Norway) (548 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BGO (Norway) -> ABZ (United Kingdom) (548 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BCN (Spain) -> LYS (France) (549 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LYS (France) -> BCN (Spain) (549 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BOD (France) -> GVA (Switzerland) (554 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> BOD (France) (554 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LAD (Angola) -> FIH (Congo (Kinshasa)) (554 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: CPH (Denmark) -> SVG (Norway) (556 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: SVG (Norway) -> CPH (Denmark) (556 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: AMS (Netherlands) -> BSL (Switzerland) (561 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> AMS (Netherlands) (561 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LYS (France) -> VCE (Italy) (565 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: VCE (Italy) -> LYS (France) (565 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: DMM (Saudi Arabia) -> DXB (United Arab Emirates) (573 km) on airline Qantas Airways from Australia
+Found 5th freedom: DXB (United Arab Emirates) -> DMM (Saudi Arabia) (573 km) on airline Qantas Airways from Australia
+Found 5th freedom: CPH (Denmark) -> WRO (Poland) (575 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: WRO (Poland) -> CPH (Denmark) (575 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BRU (Belgium) -> LYS (France) (577 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LYS (France) -> BRU (Belgium) (577 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ABJ (Cote d'Ivoire) -> LFW (Togo) (582 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: DOM (Dominica) -> SJU (Puerto Rico) (594 km) on airline TUR European Airways from Turkey
+Found 5th freedom: SJU (Puerto Rico) -> DOM (Dominica) (594 km) on airline TUR European Airways from Turkey
+Found 5th freedom: AMS (Netherlands) -> SXF (Germany) (595 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> AMS (Netherlands) (595 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> NTE (France) (597 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NTE (France) -> GVA (Switzerland) (597 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CDG (France) -> MXP (Italy) (598 km) on airline PIA Pakistan International from Pakistan
+Found 5th freedom: MXP (Italy) -> CDG (France) (598 km) on airline PIA Pakistan International from Pakistan
+Found 5th freedom: CDG (France) -> MXP (Italy) (598 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> CDG (France) (598 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> DRS (Germany) (599 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: DRS (Germany) -> BSL (Switzerland) (599 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> HAU (Norway) (608 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: HAU (Norway) -> CPH (Denmark) (608 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BKK (Thailand) -> RGN (Burma) (611 km) on airline  from Kazakhstan
+Found 5th freedom: RGN (Burma) -> BKK (Thailand) (611 km) on airline  from Kazakhstan
+Found 5th freedom: NCL (United Kingdom) -> SVG (Norway) (616 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: SVG (Norway) -> NCL (United Kingdom) (616 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> DUS (Germany) (619 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: DUS (Germany) -> CPH (Denmark) (619 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BRE (Germany) -> ZRH (Switzerland) (621 km) on airline  from Netherlands
+Found 5th freedom: ZRH (Switzerland) -> BRE (Germany) (621 km) on airline  from Netherlands
+Found 5th freedom: CPH (Denmark) -> PRG (Czech Republic) (623 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: PRG (Czech Republic) -> CPH (Denmark) (623 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: IST (Turkey) -> ODS (Ukraine) (624 km) on airline  from Egypt
+Found 5th freedom: EDI (United Kingdom) -> SVG (Norway) (629 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: SVG (Norway) -> EDI (United Kingdom) (629 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: AMS (Netherlands) -> CPH (Denmark) (633 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> AMS (Netherlands) (633 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BLL (Denmark) -> FRA (Germany) (637 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: FRA (Germany) -> BLL (Denmark) (637 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: KIN (Jamaica) -> PLS (Turks and Caicos Islands) (637 km) on airline  from Italy
+Found 5th freedom: PLS (Turks and Caicos Islands) -> KIN (Jamaica) (637 km) on airline  from Italy
+Found 5th freedom: BCN (Spain) -> GVA (Switzerland) (637 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> BCN (Spain) (637 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LIN (Italy) -> ORY (France) (638 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ORY (France) -> LIN (Italy) (638 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: AJA (France) -> BSL (Switzerland) (638 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> AJA (France) (638 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NAS (Bahamas) -> PLS (Turks and Caicos Islands) (643 km) on airline  from Italy
+Found 5th freedom: PLS (Turks and Caicos Islands) -> NAS (Bahamas) (643 km) on airline  from Italy
+Found 5th freedom: BRU (Belgium) -> SXF (Germany) (645 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> BRU (Belgium) (645 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> PRG (Czech Republic) (646 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: PRG (Czech Republic) -> MXP (Italy) (646 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> TLS (France) (651 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: TLS (France) -> BSL (Switzerland) (651 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> OLB (Italy) (654 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: OLB (Italy) -> GVA (Switzerland) (654 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NAP (Italy) -> NCE (France) (658 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NCE (France) -> NAP (Italy) (658 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: IAH (United States) -> MTY (Mexico) (662 km) on airline  from United Kingdom
+Found 5th freedom: MTY (Mexico) -> IAH (United States) (662 km) on airline  from United Kingdom
+Found 5th freedom: BRU (Belgium) -> MXP (Italy) (665 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> BRU (Belgium) (665 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> WAW (Poland) (666 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: WAW (Poland) -> CPH (Denmark) (666 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: TLL (Estonia) -> TYF (Sweden) (667 km) on airline  from Netherlands
+Found 5th freedom: TYF (Sweden) -> TLL (Estonia) (667 km) on airline  from Netherlands
+Found 5th freedom: DAR (Tanzania) -> NBO (Kenya) (668 km) on airline Swiss Airlines from Switzerland
+Found 5th freedom: NBO (Kenya) -> DAR (Tanzania) (668 km) on airline Swiss Airlines from Switzerland
+Found 5th freedom: AUA (Aruba) -> LRM (Dominican Republic) (672 km) on airline  from Netherlands Antilles
+Found 5th freedom: LRM (Dominican Republic) -> AUA (Aruba) (672 km) on airline  from Netherlands Antilles
+Found 5th freedom: LOS (Nigeria) -> SSG (Equatorial Guinea) (674 km) on airline Dennis Sky Holding from Israel
+Found 5th freedom: BGO (Norway) -> CPH (Denmark) (680 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> BGO (Norway) (680 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> FRA (Germany) (680 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: FRA (Germany) -> CPH (Denmark) (680 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: AMS (Netherlands) -> GVA (Switzerland) (682 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> AMS (Netherlands) (682 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> SXF (Germany) (683 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> BSL (Switzerland) (683 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BUD (Hungary) -> SXF (Germany) (686 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> BUD (Hungary) (686 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> NTE (France) (690 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NTE (France) -> BSL (Switzerland) (690 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> HAM (Germany) (694 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: HAM (Germany) -> BSL (Switzerland) (694 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SDQ (Dominican Republic) -> SXM (Netherlands Antilles) (694 km) on airline  from Guadeloupe
+Found 5th freedom: SXM (Netherlands Antilles) -> SDQ (Dominican Republic) (694 km) on airline  from Guadeloupe
+Found 5th freedom: FCO (Italy) -> GVA (Switzerland) (695 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> FCO (Italy) (695 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CUR (Netherlands Antilles) -> SDQ (Dominican Republic) (698 km) on airline  from Guadeloupe
+Found 5th freedom: BKO (Mali) -> OUA (Burkina Faso) (699 km) on airline  from Senegal
+Found 5th freedom: OUA (Burkina Faso) -> BKO (Mali) (699 km) on airline  from Senegal
+Found 5th freedom: BKO (Mali) -> CKY (Guinea) (700 km) on airline Dennis Sky Holding from Israel
+Found 5th freedom: CKY (Guinea) -> BKO (Mali) (700 km) on airline Dennis Sky Holding from Israel
+Found 5th freedom: BRU (Belgium) -> LIN (Italy) (703 km) on airline Swiss Airlines from Switzerland
+Found 5th freedom: LIN (Italy) -> BRU (Belgium) (703 km) on airline Swiss Airlines from Switzerland
+Found 5th freedom: GCM (Cayman Islands) -> LCE (Honduras) (704 km) on airline  from United States
+Found 5th freedom: LCE (Honduras) -> GCM (Cayman Islands) (704 km) on airline  from United States
+Found 5th freedom: BOD (France) -> BSL (Switzerland) (704 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> BOD (France) (704 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: AMS (Netherlands) -> PRG (Czech Republic) (705 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: PRG (Czech Republic) -> AMS (Netherlands) (705 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ABJ (Cote d'Ivoire) -> COO (Benin) (709 km) on airline  from Senegal
+Found 5th freedom: COO (Benin) -> ABJ (Cote d'Ivoire) (709 km) on airline  from Senegal
+Found 5th freedom: ABJ (Cote d'Ivoire) -> COO (Benin) (709 km) on airline  from Mauritania
+Found 5th freedom: COO (Benin) -> ABJ (Cote d'Ivoire) (709 km) on airline  from Mauritania
+Found 5th freedom: COO (Benin) -> ABJ (Cote d'Ivoire) (709 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: CKY (Guinea) -> DKR (Senegal) (712 km) on airline Dennis Sky Holding from Israel
+Found 5th freedom: DKR (Senegal) -> CKY (Guinea) (712 km) on airline Dennis Sky Holding from Israel
+Found 5th freedom: CKY (Guinea) -> DKR (Senegal) (712 km) on airline  from Mauritania
+Found 5th freedom: DKR (Senegal) -> CKY (Guinea) (712 km) on airline  from Mauritania
+Found 5th freedom: CKY (Guinea) -> DKR (Senegal) (712 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: DKR (Senegal) -> CKY (Guinea) (712 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: CPH (Denmark) -> RIX (Latvia) (713 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: RIX (Latvia) -> CPH (Denmark) (713 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BKK (Thailand) -> SGN (Vietnam) (716 km) on airline  from Cambodia
+Found 5th freedom: SGN (Vietnam) -> BKK (Thailand) (716 km) on airline  from Cambodia
+Found 5th freedom: BCN (Spain) -> MXP (Italy) (721 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> BCN (Spain) (721 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FCO (Italy) -> LYS (France) (721 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LYS (France) -> FCO (Italy) (721 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BIO (Spain) -> LIS (Portugal) (724 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LIS (Portugal) -> BIO (Spain) (724 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BEG (Serbia) -> FCO (Italy) (733 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FCO (Italy) -> BEG (Serbia) (733 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> FCO (Italy) (743 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FCO (Italy) -> BSL (Switzerland) (743 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BOD (France) -> MXP (Italy) (744 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> BOD (France) (744 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: PLS (Turks and Caicos Islands) -> SJU (Puerto Rico) (752 km) on airline  from Italy
+Found 5th freedom: SJU (Puerto Rico) -> PLS (Turks and Caicos Islands) (752 km) on airline  from Italy
+Found 5th freedom: KIN (Jamaica) -> SDQ (Dominican Republic) (754 km) on airline  from Italy
+Found 5th freedom: SDQ (Dominican Republic) -> KIN (Jamaica) (754 km) on airline  from Italy
+Found 5th freedom: BRU (Belgium) -> CPH (Denmark) (754 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> BRU (Belgium) (754 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: KGL (Rwanda) -> NBO (Kenya) (758 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: BEG (Serbia) -> MUC (Germany) (760 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MUC (Germany) -> BEG (Serbia) (760 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BSL (Switzerland) -> OLB (Italy) (761 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: OLB (Italy) -> BSL (Switzerland) (761 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: KBP (Ukraine) -> SVO (Russia) (761 km) on airline  from Egypt
+Found 5th freedom: SVO (Russia) -> KBP (Ukraine) (761 km) on airline  from Egypt
+Found 5th freedom: HEL (Finland) -> OSL (Norway) (763 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> HEL (Finland) (763 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: SXF (Germany) -> VCE (Italy) (769 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: VCE (Italy) -> SXF (Germany) (769 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: OSL (Norway) -> TLL (Estonia) (771 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: TLL (Estonia) -> OSL (Norway) (771 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CMB (Sri Lanka) -> MLE (Maldives) (778 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: MLE (Maldives) -> CMB (Sri Lanka) (778 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: BOD (France) -> BRU (Belgium) (778 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BRU (Belgium) -> BOD (France) (778 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GDN (Poland) -> OSL (Norway) (783 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> GDN (Poland) (783 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BIO (Spain) -> GVA (Switzerland) (783 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> BIO (Spain) (783 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> TKU (Finland) (783 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: TKU (Finland) -> CPH (Denmark) (783 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: GVA (Switzerland) -> PMI (Spain) (792 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: PMI (Spain) -> GVA (Switzerland) (792 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> LUX (Luxembourg) (795 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: LUX (Luxembourg) -> CPH (Denmark) (795 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: AMS (Netherlands) -> MXP (Italy) (797 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> AMS (Netherlands) (797 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> STR (Germany) (805 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: STR (Germany) -> CPH (Denmark) (805 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: HKG (Hong Kong) -> TPE (Taiwan) (806 km) on airline JAL Japan Airlines from Japan
+Found 5th freedom: TPE (Taiwan) -> HKG (Hong Kong) (806 km) on airline JAL Japan Airlines from Japan
+Found 5th freedom: CPH (Denmark) -> VNO (Lithuania) (809 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: VNO (Lithuania) -> CPH (Denmark) (809 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> MUC (Germany) (810 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MUC (Germany) -> CPH (Denmark) (810 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CAG (Italy) -> GVA (Switzerland) (813 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> CAG (Italy) (813 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ABJ (Cote d'Ivoire) -> LOS (Nigeria) (815 km) on airline  from Cameroon
+Found 5th freedom: LOS (Nigeria) -> ABJ (Cote d'Ivoire) (815 km) on airline  from Cameroon
+Found 5th freedom: BSL (Switzerland) -> SPU (Croatia) (817 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SPU (Croatia) -> BSL (Switzerland) (817 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BCN (Spain) -> BSL (Switzerland) (822 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> BCN (Spain) (822 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> SXF (Germany) (828 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> MXP (Italy) (828 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: OSL (Norway) -> RIX (Latvia) (829 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: RIX (Latvia) -> OSL (Norway) (829 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BLQ (Italy) -> CDG (France) (830 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CDG (France) -> BLQ (Italy) (830 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BRU (Belgium) -> NCE (France) (831 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NCE (France) -> BRU (Belgium) (831 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ABJ (Cote d'Ivoire) -> OUA (Burkina Faso) (832 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: OUA (Burkina Faso) -> ABJ (Cote d'Ivoire) (832 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: ORY (France) -> PSA (Italy) (834 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: PSA (Italy) -> ORY (France) (834 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> PMI (Spain) (835 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: PMI (Spain) -> MXP (Italy) (835 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ABZ (United Kingdom) -> OSL (Norway) (835 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> ABZ (United Kingdom) (835 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CDG (France) -> VCE (Italy) (835 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: VCE (Italy) -> CDG (France) (835 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ORY (France) -> VCE (Italy) (836 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: VCE (Italy) -> ORY (France) (836 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BUD (Hungary) -> FRA (Germany) (836 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> TLL (Estonia) (839 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: TLL (Estonia) -> CPH (Denmark) (839 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BRU (Belgium) -> TLS (France) (842 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: TLS (France) -> BRU (Belgium) (842 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CDG (France) -> PRG (Czech Republic) (852 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: PRG (Czech Republic) -> CDG (France) (852 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: COO (Benin) -> DLA (Cameroon) (853 km) on airline  from Senegal
+Found 5th freedom: DLA (Cameroon) -> COO (Benin) (853 km) on airline  from Senegal
+Found 5th freedom: GVA (Switzerland) -> SPU (Croatia) (856 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SPU (Croatia) -> GVA (Switzerland) (856 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: AES (Norway) -> CPH (Denmark) (857 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> AES (Norway) (857 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BCN (Spain) -> CDG (France) (859 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CDG (France) -> BCN (Spain) (859 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: OSL (Norway) -> TXL (Germany) (859 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: TXL (Germany) -> OSL (Norway) (859 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: TLL (Estonia) -> TRD (Norway) (863 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: TRD (Norway) -> TLL (Estonia) (863 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: GVA (Switzerland) -> SXF (Germany) (868 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> GVA (Switzerland) (868 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ALA (Kazakhstan) -> DYU (Tajikistan) (872 km) on airline SZA from Austria
+Found 5th freedom: DYU (Tajikistan) -> ALA (Kazakhstan) (872 km) on airline SZA from Austria
+Found 5th freedom: DXB (United Arab Emirates) -> RUH (Saudi Arabia) (873 km) on airline Qantas Airways from Australia
+Found 5th freedom: RUH (Saudi Arabia) -> DXB (United Arab Emirates) (873 km) on airline Qantas Airways from Australia
+Found 5th freedom: BJM (Burundi) -> NBO (Kenya) (874 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: PJA (Sweden) -> TLL (Estonia) (875 km) on airline  from Netherlands
+Found 5th freedom: TLL (Estonia) -> PJA (Sweden) (875 km) on airline  from Netherlands
+Found 5th freedom: CPH (Denmark) -> TRD (Norway) (877 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: TRD (Norway) -> CPH (Denmark) (877 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BSL (Switzerland) -> BUD (Hungary) (880 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BUD (Hungary) -> BSL (Switzerland) (880 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CGK (Indonesia) -> SIN (Singapore) (882 km) on airline Qantas Airways from Australia
+Found 5th freedom: SIN (Singapore) -> CGK (Indonesia) (882 km) on airline Qantas Airways from Australia
+Found 5th freedom: ORY (France) -> SXF (Germany) (886 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> ORY (France) (886 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: PBM (Suriname) -> POS (Trinidad and Tobago) (886 km) on airline  from Netherlands Antilles
+Found 5th freedom: POS (Trinidad and Tobago) -> PBM (Suriname) (886 km) on airline  from Netherlands Antilles
+Found 5th freedom: GVA (Switzerland) -> NAP (Italy) (887 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NAP (Italy) -> GVA (Switzerland) (887 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> HEL (Finland) (892 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: HEL (Finland) -> CPH (Denmark) (892 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: HAM (Germany) -> MXP (Italy) (894 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> HAM (Germany) (894 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BGO (Norway) -> MAN (United Kingdom) (895 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MAN (United Kingdom) -> BGO (Norway) (895 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: GVA (Switzerland) -> IBZ (Spain) (906 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: IBZ (Spain) -> GVA (Switzerland) (906 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BUS (Georgia) -> DNK (Ukraine) (907 km) on airline ZABAIKAL  from Russia
+Found 5th freedom: DNK (Ukraine) -> BUS (Georgia) (907 km) on airline ZABAIKAL  from Russia
+Found 5th freedom: FCO (Italy) -> SKG (Greece) (908 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SKG (Greece) -> FCO (Italy) (908 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> NCL (United Kingdom) (908 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: NCL (United Kingdom) -> CPH (Denmark) (908 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: LHR (United Kingdom) -> SVG (Norway) (908 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: SVG (Norway) -> LHR (United Kingdom) (908 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BEG (Serbia) -> MXP (Italy) (911 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> BEG (Serbia) (911 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LYS (France) -> MAD (Spain) (911 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MAD (Spain) -> LYS (France) (911 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FCO (Italy) -> TLS (France) (912 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: TLS (France) -> FCO (Italy) (912 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: HMB (Egypt) -> JED (Saudi Arabia) (914 km) on airline MARYSYA AIRLINES from Russia
+Found 5th freedom: JED (Saudi Arabia) -> HMB (Egypt) (914 km) on airline MARYSYA AIRLINES from Russia
+Found 5th freedom: BSL (Switzerland) -> NAP (Italy) (919 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NAP (Italy) -> BSL (Switzerland) (919 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: HAM (Germany) -> VCE (Italy) (919 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: VCE (Italy) -> HAM (Germany) (919 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ABJ (Cote d'Ivoire) -> BKO (Mali) (921 km) on airline  from Mauritania
+Found 5th freedom: BKO (Mali) -> ABJ (Cote d'Ivoire) (921 km) on airline  from Mauritania
+Found 5th freedom: AMS (Netherlands) -> BOD (France) (924 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BOD (France) -> AMS (Netherlands) (924 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ABZ (United Kingdom) -> CPH (Denmark) (929 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> ABZ (United Kingdom) (929 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BSL (Switzerland) -> CAG (Italy) (935 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CAG (Italy) -> BSL (Switzerland) (935 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FCO (Italy) -> PRG (Czech Republic) (935 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: PRG (Czech Republic) -> FCO (Italy) (935 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> KRK (Poland) (937 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: KRK (Poland) -> BSL (Switzerland) (937 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> LBA (United Kingdom) (938 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: LBA (United Kingdom) -> CPH (Denmark) (938 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> ZRH (Switzerland) (950 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: ZRH (Switzerland) -> CPH (Denmark) (950 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: DNK (Ukraine) -> IST (Turkey) (959 km) on airline ZABAIKAL  from Russia
+Found 5th freedom: IST (Turkey) -> DNK (Ukraine) (959 km) on airline ZABAIKAL  from Russia
+Found 5th freedom: LBV (Gabon) -> LOS (Nigeria) (959 km) on airline Dennis Sky Holding from Israel
+Found 5th freedom: AMS (Netherlands) -> OSL (Norway) (959 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> AMS (Netherlands) (959 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BSL (Switzerland) -> CPH (Denmark) (960 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> BSL (Switzerland) (960 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LYS (France) -> SXF (Germany) (960 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> LYS (France) (960 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: IBZ (Spain) -> MXP (Italy) (964 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> IBZ (Spain) (964 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BOD (France) -> LIS (Portugal) (968 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LIS (Portugal) -> BOD (France) (968 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: EDI (United Kingdom) -> OSL (Norway) (970 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> EDI (United Kingdom) (970 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BSL (Switzerland) -> PMI (Spain) (973 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: PMI (Spain) -> BSL (Switzerland) (973 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> LHR (United Kingdom) (979 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: LHR (United Kingdom) -> CPH (Denmark) (979 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: PSA (Italy) -> SXF (Germany) (994 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> PSA (Italy) (994 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> MAN (United Kingdom) (995 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MAN (United Kingdom) -> CPH (Denmark) (995 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BKK (Thailand) -> HAN (Vietnam) (995 km) on airline  from Cambodia
+Found 5th freedom: HAN (Vietnam) -> BKK (Thailand) (995 km) on airline  from Cambodia
+Found 5th freedom: FRA (Germany) -> SVG (Norway) (1002 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: SVG (Norway) -> FRA (Germany) (1002 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BHX (United Kingdom) -> CPH (Denmark) (1002 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> BHX (United Kingdom) (1002 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CDG (France) -> CPH (Denmark) (1004 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> CDG (France) (1004 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CDG (France) -> CPH (Denmark) (1004 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> CDG (France) (1004 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BUD (Hungary) -> GVA (Switzerland) (1008 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> BUD (Hungary) (1008 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> MAD (Spain) (1009 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MAD (Spain) -> GVA (Switzerland) (1009 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SIN (Singapore) -> USM (Thailand) (1010 km) on airline Qantas Airways from Australia
+Found 5th freedom: USM (Thailand) -> SIN (Singapore) (1010 km) on airline Qantas Airways from Australia
+Found 5th freedom: BUD (Hungary) -> CPH (Denmark) (1017 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> BUD (Hungary) (1017 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: FDF (Martinique) -> SDQ (Dominican Republic) (1017 km) on airline  from Guadeloupe
+Found 5th freedom: COO (Benin) -> LBV (Gabon) (1019 km) on airline Dennis Sky Holding from Israel
+Found 5th freedom: LBV (Gabon) -> COO (Benin) (1019 km) on airline Dennis Sky Holding from Israel
+Found 5th freedom: COO (Benin) -> LBV (Gabon) (1019 km) on airline  from Senegal
+Found 5th freedom: LBV (Gabon) -> COO (Benin) (1019 km) on airline  from Senegal
+Found 5th freedom: DUS (Germany) -> OSL (Norway) (1026 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> DUS (Germany) (1026 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: LGW (United Kingdom) -> VRN (Italy) (1038 km) on airline  from France
+Found 5th freedom: VRN (Italy) -> LGW (United Kingdom) (1038 km) on airline  from France
+Found 5th freedom: ALC (Spain) -> GVA (Switzerland) (1040 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> ALC (Spain) (1040 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: DBV (Croatia) -> GVA (Switzerland) (1048 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> DBV (Croatia) (1048 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> LJU (Slovenia) (1052 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: LJU (Slovenia) -> CPH (Denmark) (1052 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: KBP (Ukraine) -> LED (Russia) (1052 km) on airline  from Egypt
+Found 5th freedom: LED (Russia) -> KBP (Ukraine) (1052 km) on airline  from Egypt
+Found 5th freedom: IST (Turkey) -> KBP (Ukraine) (1054 km) on airline  from Egypt
+Found 5th freedom: KBP (Ukraine) -> IST (Turkey) (1054 km) on airline  from Egypt
+Found 5th freedom: BEG (Serbia) -> FRA (Germany) (1056 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: FRA (Germany) -> BEG (Serbia) (1056 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: DOK (Ukraine) -> IST (Turkey) (1058 km) on airline  from Egypt
+Found 5th freedom: IST (Turkey) -> DOK (Ukraine) (1058 km) on airline  from Egypt
+Found 5th freedom: BKO (Mali) -> DKR (Senegal) (1060 km) on airline SAA South African Airways from South Africa
+Found 5th freedom: DKR (Senegal) -> BKO (Mali) (1060 km) on airline SAA South African Airways from South Africa
+Found 5th freedom: CDG (France) -> MAD (Spain) (1062 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MAD (Spain) -> CDG (France) (1062 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: DNK (Ukraine) -> TBS (Georgia) (1072 km) on airline ZABAIKAL  from Russia
+Found 5th freedom: TBS (Georgia) -> DNK (Ukraine) (1072 km) on airline ZABAIKAL  from Russia
+Found 5th freedom: NCE (France) -> SXF (Germany) (1076 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> NCE (France) (1076 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ATH (Greece) -> FCO (Italy) (1086 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FCO (Italy) -> ATH (Greece) (1086 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FCO (Italy) -> ORY (France) (1090 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ORY (France) -> FCO (Italy) (1090 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MAN (United Kingdom) -> OSL (Norway) (1111 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> MAN (United Kingdom) (1111 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BRU (Belgium) -> OSL (Norway) (1113 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> BRU (Belgium) (1113 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BEG (Serbia) -> GVA (Switzerland) (1116 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> BEG (Serbia) (1116 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LGW (United Kingdom) -> VCE (Italy) (1117 km) on airline  from France
+Found 5th freedom: VCE (Italy) -> LGW (United Kingdom) (1117 km) on airline  from France
+Found 5th freedom: CPH (Denmark) -> ZAG (Croatia) (1124 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: ZAG (Croatia) -> CPH (Denmark) (1124 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> VCE (Italy) (1125 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: VCE (Italy) -> CPH (Denmark) (1125 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: HAM (Germany) -> NCE (France) (1127 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NCE (France) -> HAM (Germany) (1127 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: DLA (Cameroon) -> FIH (Congo (Kinshasa)) (1129 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: FIH (Congo (Kinshasa)) -> DLA (Cameroon) (1129 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: MAN (United Kingdom) -> MUC (Germany) (1130 km) on airline SAA South African Airways from South Africa
+Found 5th freedom: MUC (Germany) -> MAN (United Kingdom) (1130 km) on airline SAA South African Airways from South Africa
+Found 5th freedom: BDS (Italy) -> BSL (Switzerland) (1132 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> BDS (Italy) (1132 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BDS (Italy) -> GVA (Switzerland) (1138 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> BDS (Italy) (1138 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> GVA (Switzerland) (1138 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: GVA (Switzerland) -> CPH (Denmark) (1138 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> GVA (Switzerland) (1138 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> CPH (Denmark) (1138 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: OSL (Norway) -> PRG (Czech Republic) (1140 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: PRG (Czech Republic) -> OSL (Norway) (1140 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> LED (Russia) (1140 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: LED (Russia) -> CPH (Denmark) (1140 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: FRA (Germany) -> OSL (Norway) (1142 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> FRA (Germany) (1142 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> MXP (Italy) (1144 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MXP (Italy) -> CPH (Denmark) (1144 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> MXP (Italy) (1144 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> CPH (Denmark) (1144 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MAD (Spain) -> MXP (Italy) (1149 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> MAD (Spain) (1149 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> LIN (Italy) (1156 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: LIN (Italy) -> CPH (Denmark) (1156 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: ODS (Ukraine) -> SVO (Russia) (1159 km) on airline  from Egypt
+Found 5th freedom: SVO (Russia) -> ODS (Ukraine) (1159 km) on airline  from Egypt
+Found 5th freedom: BGO (Norway) -> FRA (Germany) (1161 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: FRA (Germany) -> BGO (Norway) (1161 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: DNK (Ukraine) -> EVN (Armenia) (1174 km) on airline ZABAIKAL  from Russia
+Found 5th freedom: EVN (Armenia) -> DNK (Ukraine) (1174 km) on airline ZABAIKAL  from Russia
+Found 5th freedom: BRS (United Kingdom) -> REU (Spain) (1176 km) on airline  from France
+Found 5th freedom: REU (Spain) -> BRS (United Kingdom) (1176 km) on airline  from France
+Found 5th freedom: FCO (Italy) -> SXF (Germany) (1180 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> FCO (Italy) (1180 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> MAD (Spain) (1185 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MAD (Spain) -> BSL (Switzerland) (1185 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> PRN (Serbia) (1196 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: PRN (Serbia) -> BSL (Switzerland) (1196 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LTN (United Kingdom) -> REU (Spain) (1199 km) on airline  from France
+Found 5th freedom: LHR (United Kingdom) -> OSL (Norway) (1205 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> LHR (United Kingdom) (1205 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: GVA (Switzerland) -> SCQ (Spain) (1207 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SCQ (Spain) -> GVA (Switzerland) (1207 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LYS (France) -> OPO (Portugal) (1215 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: OPO (Portugal) -> LYS (France) (1215 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CTA (Italy) -> GVA (Switzerland) (1224 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> CTA (Italy) (1224 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ALC (Spain) -> BSL (Switzerland) (1225 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> ALC (Spain) (1225 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CDG (France) -> OPO (Portugal) (1231 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: OPO (Portugal) -> CDG (France) (1231 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BLQ (Italy) -> CPH (Denmark) (1236 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> BLQ (Italy) (1236 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> DUB (Ireland) (1242 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: DUB (Ireland) -> CPH (Denmark) (1242 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CDG (France) -> KRK (Poland) (1246 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: KRK (Poland) -> CDG (France) (1246 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BUD (Hungary) -> CDG (France) (1247 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CDG (France) -> BUD (Hungary) (1247 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FCO (Italy) -> NTE (France) (1248 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NTE (France) -> FCO (Italy) (1248 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> PRN (Serbia) (1252 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: PRN (Serbia) -> GVA (Switzerland) (1252 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: HAV (Cuba) -> SAL (El Salvador) (1272 km) on airline TACA from Costa Rica
+Found 5th freedom: SAL (El Salvador) -> HAV (Cuba) (1272 km) on airline TACA from Costa Rica
+Found 5th freedom: NAP (Italy) -> SXF (Germany) (1279 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> NAP (Italy) (1279 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NAP (Italy) -> ORY (France) (1280 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ORY (France) -> NAP (Italy) (1280 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> CTA (Italy) (1282 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CTA (Italy) -> BSL (Switzerland) (1282 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CDG (France) -> NAP (Italy) (1290 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NAP (Italy) -> CDG (France) (1290 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: DUB (Ireland) -> OSL (Norway) (1292 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> DUB (Ireland) (1292 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MAN (United Kingdom) -> VRN (Italy) (1297 km) on airline  from France
+Found 5th freedom: VRN (Italy) -> MAN (United Kingdom) (1297 km) on airline  from France
+Found 5th freedom: AMS (Netherlands) -> FCO (Italy) (1297 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FCO (Italy) -> AMS (Netherlands) (1297 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BOH (United Kingdom) -> PMI (Spain) (1298 km) on airline  from France
+Found 5th freedom: PMI (Spain) -> BOH (United Kingdom) (1298 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> MAH (Spain) (1300 km) on airline  from France
+Found 5th freedom: MAH (Spain) -> LGW (United Kingdom) (1300 km) on airline  from France
+Found 5th freedom: SOF (Bulgaria) -> SXF (Germany) (1305 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> SOF (Bulgaria) (1305 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> OPO (Portugal) (1309 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: OPO (Portugal) -> GVA (Switzerland) (1309 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LGW (United Kingdom) -> PMI (Spain) (1309 km) on airline  from France
+Found 5th freedom: PMI (Spain) -> LGW (United Kingdom) (1309 km) on airline  from France
+Found 5th freedom: OLB (Italy) -> SXF (Germany) (1312 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> OLB (Italy) (1312 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MUC (Germany) -> OSL (Norway) (1317 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> MUC (Germany) (1317 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BKO (Mali) -> COO (Benin) (1325 km) on airline Dennis Sky Holding from Israel
+Found 5th freedom: COO (Benin) -> BKO (Mali) (1325 km) on airline Dennis Sky Holding from Israel
+Found 5th freedom: BKO (Mali) -> COO (Benin) (1325 km) on airline  from Senegal
+Found 5th freedom: COO (Benin) -> BKO (Mali) (1325 km) on airline  from Senegal
+Found 5th freedom: BKO (Mali) -> COO (Benin) (1325 km) on airline  from Mauritania
+Found 5th freedom: COO (Benin) -> BKO (Mali) (1325 km) on airline  from Mauritania
+Found 5th freedom: FCO (Italy) -> HAM (Germany) (1326 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: HAM (Germany) -> FCO (Italy) (1326 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: EXT (United Kingdom) -> PMI (Spain) (1332 km) on airline  from France
+Found 5th freedom: PMI (Spain) -> EXT (United Kingdom) (1332 km) on airline  from France
+Found 5th freedom: BKK (Thailand) -> CGP (Bangladesh) (1341 km) on airline Rainbow Air POL from United States
+Found 5th freedom: CGP (Bangladesh) -> BKK (Thailand) (1341 km) on airline Rainbow Air POL from United States
+Found 5th freedom: DUS (Germany) -> PMI (Spain) (1342 km) on airline  from Burma
+Found 5th freedom: PMI (Spain) -> DUS (Germany) (1342 km) on airline  from Burma
+Found 5th freedom: BRU (Belgium) -> NAP (Italy) (1345 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NAP (Italy) -> BRU (Belgium) (1345 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> SCQ (Spain) (1350 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SCQ (Spain) -> BSL (Switzerland) (1350 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CDG (France) -> OSL (Norway) (1357 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> CDG (France) (1357 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MAN (United Kingdom) -> VCE (Italy) (1367 km) on airline  from France
+Found 5th freedom: VCE (Italy) -> MAN (United Kingdom) (1367 km) on airline  from France
+Found 5th freedom: CPH (Denmark) -> SPU (Croatia) (1368 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: SPU (Croatia) -> CPH (Denmark) (1368 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: DNK (Ukraine) -> VIE (Austria) (1369 km) on airline ZABAIKAL  from Russia
+Found 5th freedom: VIE (Austria) -> DNK (Ukraine) (1369 km) on airline ZABAIKAL  from Russia
+Found 5th freedom: LGW (United Kingdom) -> IBZ (Spain) (1370 km) on airline  from France
+Found 5th freedom: STN (United Kingdom) -> MAH (Spain) (1371 km) on airline  from France
+Found 5th freedom: SUB (Indonesia) -> SIN (Singapore) (1376 km) on airline Qantas Airways from Australia
+Found 5th freedom: AGP (Spain) -> GVA (Switzerland) (1380 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> AGP (Spain) (1380 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BRS (United Kingdom) -> PMI (Spain) (1381 km) on airline  from France
+Found 5th freedom: PMI (Spain) -> BRS (United Kingdom) (1381 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> REU (Spain) (1382 km) on airline  from France
+Found 5th freedom: REU (Spain) -> MAN (United Kingdom) (1382 km) on airline  from France
+Found 5th freedom: PMI (Spain) -> STN (United Kingdom) (1385 km) on airline  from France
+Found 5th freedom: STN (United Kingdom) -> PMI (Spain) (1385 km) on airline  from France
+Found 5th freedom: CPH (Denmark) -> NCE (France) (1385 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: NCE (France) -> CPH (Denmark) (1385 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BRS (United Kingdom) -> MAH (Spain) (1388 km) on airline  from France
+Found 5th freedom: LTN (United Kingdom) -> PMI (Spain) (1391 km) on airline  from France
+Found 5th freedom: PMI (Spain) -> LTN (United Kingdom) (1391 km) on airline  from France
+Found 5th freedom: GVA (Switzerland) -> SVQ (Spain) (1394 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SVQ (Spain) -> GVA (Switzerland) (1394 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CWL (United Kingdom) -> PMI (Spain) (1398 km) on airline  from France
+Found 5th freedom: PMI (Spain) -> CWL (United Kingdom) (1398 km) on airline  from France
+Found 5th freedom: LIS (Portugal) -> LYS (France) (1399 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LYS (France) -> LIS (Portugal) (1399 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BKO (Mali) -> LOS (Nigeria) (1402 km) on airline Dennis Sky Holding from Israel
+Found 5th freedom: LOS (Nigeria) -> BKO (Mali) (1402 km) on airline Dennis Sky Holding from Israel
+Found 5th freedom: ADD (Ethiopia) -> JED (Saudi Arabia) (1413 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: JED (Saudi Arabia) -> ADD (Ethiopia) (1413 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BRI (Italy) -> CDG (France) (1414 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CDG (France) -> BRI (Italy) (1414 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BKK (Thailand) -> SIN (Singapore) (1417 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> ZRH (Switzerland) (1425 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: ZRH (Switzerland) -> OSL (Norway) (1425 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: ALC (Spain) -> LGW (United Kingdom) (1431 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> ALC (Spain) (1431 km) on airline  from France
+Found 5th freedom: CAY (French Guiana) -> FDF (Martinique) (1441 km) on airline  from Guadeloupe
+Found 5th freedom: FDF (Martinique) -> CAY (French Guiana) (1441 km) on airline  from Guadeloupe
+Found 5th freedom: IBZ (Spain) -> STN (United Kingdom) (1450 km) on airline  from France
+Found 5th freedom: STN (United Kingdom) -> IBZ (Spain) (1450 km) on airline  from France
+Found 5th freedom: MBA (Kenya) -> ADD (Ethiopia) (1450 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: IBZ (Spain) -> LTN (United Kingdom) (1452 km) on airline  from France
+Found 5th freedom: LTN (United Kingdom) -> IBZ (Spain) (1452 km) on airline  from France
+Found 5th freedom: HAM (Germany) -> NAP (Italy) (1453 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NAP (Italy) -> HAM (Germany) (1453 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ORY (France) -> PMO (Italy) (1455 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: PMO (Italy) -> ORY (France) (1455 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> SKG (Greece) (1459 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SKG (Greece) -> BSL (Switzerland) (1459 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ICN (South Korea) -> TPE (Taiwan) (1464 km) on airline  from Singapore
+Found 5th freedom: TPE (Taiwan) -> ICN (South Korea) (1464 km) on airline  from Singapore
+Found 5th freedom: BSL (Switzerland) -> OPO (Portugal) (1464 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: OPO (Portugal) -> BSL (Switzerland) (1464 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ALC (Spain) -> BRS (United Kingdom) (1466 km) on airline  from France
+Found 5th freedom: BRS (United Kingdom) -> ALC (Spain) (1466 km) on airline  from France
+Found 5th freedom: LIS (Portugal) -> NCE (France) (1468 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NCE (France) -> LIS (Portugal) (1468 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LHR (United Kingdom) -> WAW (Poland) (1469 km) on airline ANA All Nippon Airways from Japan
+Found 5th freedom: WAW (Poland) -> LHR (United Kingdom) (1469 km) on airline ANA All Nippon Airways from Japan
+Found 5th freedom: CDG (France) -> LIS (Portugal) (1470 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LIS (Portugal) -> CDG (France) (1470 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ALC (Spain) -> CWL (United Kingdom) (1474 km) on airline  from France
+Found 5th freedom: CWL (United Kingdom) -> ALC (Spain) (1474 km) on airline  from France
+Found 5th freedom: BHX (United Kingdom) -> PMI (Spain) (1475 km) on airline  from France
+Found 5th freedom: PMI (Spain) -> BHX (United Kingdom) (1475 km) on airline  from France
+Found 5th freedom: AGP (Spain) -> MXP (Italy) (1486 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> AGP (Spain) (1486 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: AGP (Spain) -> CDG (France) (1486 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CDG (France) -> AGP (Spain) (1486 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: KBP (Ukraine) -> AYT (Turkey) (1495 km) on airline  from Egypt
+Found 5th freedom: MUC (Germany) -> MAD (Spain) (1496 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: GVA (Switzerland) -> LIS (Portugal) (1496 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LIS (Portugal) -> GVA (Switzerland) (1496 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CAG (Italy) -> SXF (Germany) (1500 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> CAG (Italy) (1500 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SKG (Greece) -> SXF (Germany) (1501 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> SKG (Greece) (1501 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MAN (United Kingdom) -> PUY (Croatia) (1502 km) on airline  from France
+Found 5th freedom: PUY (Croatia) -> MAN (United Kingdom) (1502 km) on airline  from France
+Found 5th freedom: EMA (United Kingdom) -> MAH (Spain) (1502 km) on airline  from France
+Found 5th freedom: MAH (Spain) -> EMA (United Kingdom) (1502 km) on airline  from France
+Found 5th freedom: BCN (Spain) -> SXF (Germany) (1505 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> BCN (Spain) (1505 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: EMA (United Kingdom) -> PMI (Spain) (1508 km) on airline  from France
+Found 5th freedom: PMI (Spain) -> EMA (United Kingdom) (1508 km) on airline  from France
+Found 5th freedom: ATH (Greece) -> MXP (Italy) (1520 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> ATH (Greece) (1520 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> FCO (Italy) (1536 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: FCO (Italy) -> CPH (Denmark) (1536 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> FCO (Italy) (1536 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FCO (Italy) -> CPH (Denmark) (1536 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FRA (Germany) -> HEL (Finland) (1540 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: HEL (Finland) -> FRA (Germany) (1540 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> SVO (Russia) (1540 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: SVO (Russia) -> CPH (Denmark) (1540 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: FAO (Portugal) -> ORY (France) (1547 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ORY (France) -> FAO (Portugal) (1547 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FAO (Portugal) -> GVA (Switzerland) (1552 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> FAO (Portugal) (1552 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> OTP (Romania) (1553 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OTP (Romania) -> CPH (Denmark) (1553 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: AGP (Spain) -> BSL (Switzerland) (1564 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> AGP (Spain) (1564 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LHR (United Kingdom) -> LIS (Portugal) (1565 km) on airline ANA All Nippon Airways from Japan
+Found 5th freedom: LIS (Portugal) -> LHR (United Kingdom) (1565 km) on airline ANA All Nippon Airways from Japan
+Found 5th freedom: EMA (United Kingdom) -> IBZ (Spain) (1566 km) on airline  from France
+Found 5th freedom: IBZ (Spain) -> EMA (United Kingdom) (1566 km) on airline  from France
+Found 5th freedom: EXT (United Kingdom) -> FAO (Portugal) (1568 km) on airline  from France
+Found 5th freedom: BKK (Thailand) -> DAC (Bangladesh) (1568 km) on airline Rainbow Air POL from United States
+Found 5th freedom: DAC (Bangladesh) -> BKK (Thailand) (1568 km) on airline Rainbow Air POL from United States
+Found 5th freedom: RAK (Morocco) -> TLS (France) (1570 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: TLS (France) -> RAK (Morocco) (1570 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> PRN (Serbia) (1571 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: PRN (Serbia) -> CPH (Denmark) (1571 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: DSA (United Kingdom) -> PMI (Spain) (1574 km) on airline  from France
+Found 5th freedom: PMI (Spain) -> DSA (United Kingdom) (1574 km) on airline  from France
+Found 5th freedom: BSL (Switzerland) -> SVQ (Spain) (1574 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SVQ (Spain) -> BSL (Switzerland) (1574 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: HEL (Finland) -> MUC (Germany) (1575 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MUC (Germany) -> HEL (Finland) (1575 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MAH (Spain) -> MAN (United Kingdom) (1578 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> MAH (Spain) (1578 km) on airline  from France
+Found 5th freedom: ALC (Spain) -> BHX (United Kingdom) (1579 km) on airline  from France
+Found 5th freedom: BHX (United Kingdom) -> ALC (Spain) (1579 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> PMI (Spain) (1581 km) on airline  from France
+Found 5th freedom: PMI (Spain) -> MAN (United Kingdom) (1581 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> NAP (Italy) (1592 km) on airline  from France
+Found 5th freedom: NAP (Italy) -> LGW (United Kingdom) (1592 km) on airline  from France
+Found 5th freedom: BOD (France) -> RAK (Morocco) (1602 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: RAK (Morocco) -> BOD (France) (1602 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: OSL (Norway) -> SVO (Russia) (1604 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: SVO (Russia) -> OSL (Norway) (1604 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: DAC (Bangladesh) -> MAA (India) (1616 km) on airline  from Maldives
+Found 5th freedom: MAA (India) -> DAC (Bangladesh) (1616 km) on airline  from Maldives
+Found 5th freedom: ALC (Spain) -> EMA (United Kingdom) (1619 km) on airline  from France
+Found 5th freedom: EMA (United Kingdom) -> ALC (Spain) (1619 km) on airline  from France
+Found 5th freedom: FBM (Congo (Kinshasa)) -> JNB (South Africa) (1619 km) on airline  from American Samoa
+Found 5th freedom: JNB (South Africa) -> FBM (Congo (Kinshasa)) (1619 km) on airline  from American Samoa
+Found 5th freedom: LBA (United Kingdom) -> PMI (Spain) (1625 km) on airline  from France
+Found 5th freedom: PMI (Spain) -> LBA (United Kingdom) (1625 km) on airline  from France
+Found 5th freedom: MXP (Italy) -> OSL (Norway) (1627 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> MXP (Italy) (1627 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: COO (Benin) -> PNR (Congo (Brazzaville)) (1630 km) on airline  from Mauritania
+Found 5th freedom: PNR (Congo (Brazzaville)) -> COO (Benin) (1630 km) on airline  from Mauritania
+Found 5th freedom: COO (Benin) -> PNR (Congo (Brazzaville)) (1630 km) on airline SAA South African Airways from South Africa
+Found 5th freedom: PNR (Congo (Brazzaville)) -> COO (Benin) (1630 km) on airline SAA South African Airways from South Africa
+Found 5th freedom: CDG (France) -> CTA (Italy) (1631 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CTA (Italy) -> CDG (France) (1631 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: IBZ (Spain) -> MAN (United Kingdom) (1634 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> IBZ (Spain) (1634 km) on airline  from France
+Found 5th freedom: MGA (Nicaragua) -> MIA (United States) (1638 km) on airline TACA from Costa Rica
+Found 5th freedom: MIA (United States) -> MGA (Nicaragua) (1638 km) on airline TACA from Costa Rica
+Found 5th freedom: AGP (Spain) -> CWL (United Kingdom) (1640 km) on airline  from France
+Found 5th freedom: CWL (United Kingdom) -> AGP (Spain) (1640 km) on airline  from France
+Found 5th freedom: AGP (Spain) -> LGW (United Kingdom) (1645 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> AGP (Spain) (1645 km) on airline  from France
+Found 5th freedom: PMI (Spain) -> SXF (Germany) (1648 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> PMI (Spain) (1648 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: JMK (Greece) -> MXP (Italy) (1651 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> JMK (Greece) (1651 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LIS (Portugal) -> MXP (Italy) (1652 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> LIS (Portugal) (1652 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: HAM (Germany) -> PMI (Spain) (1659 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: PMI (Spain) -> HAM (Germany) (1659 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> LIS (Portugal) (1663 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LIS (Portugal) -> BSL (Switzerland) (1663 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: DYU (Tajikistan) -> URC (China) (1665 km) on airline SZA from Austria
+Found 5th freedom: URC (China) -> DYU (Tajikistan) (1665 km) on airline SZA from Austria
+Found 5th freedom: DPS (Indonesia) -> SIN (Singapore) (1671 km) on airline Qantas Airways from Australia
+Found 5th freedom: SIN (Singapore) -> DPS (Indonesia) (1671 km) on airline Qantas Airways from Australia
+Found 5th freedom: ALC (Spain) -> MAN (United Kingdom) (1681 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> ALC (Spain) (1681 km) on airline  from France
+Found 5th freedom: ARN (Sweden) -> GVA (Switzerland) (1683 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> ARN (Sweden) (1683 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: IBZ (Spain) -> LBA (United Kingdom) (1683 km) on airline  from France
+Found 5th freedom: LBA (United Kingdom) -> IBZ (Spain) (1683 km) on airline  from France
+Found 5th freedom: LBD (Tajikistan) -> REN (Russia) (1687 km) on airline SZA from Austria
+Found 5th freedom: REN (Russia) -> LBD (Tajikistan) (1687 km) on airline SZA from Austria
+Found 5th freedom: FAO (Portugal) -> LGW (United Kingdom) (1688 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> FAO (Portugal) (1688 km) on airline  from France
+Found 5th freedom: BIQ (France) -> CPH (Denmark) (1688 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> BIQ (France) (1688 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BKK (Thailand) -> HKG (Hong Kong) (1689 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: HKG (Hong Kong) -> BKK (Thailand) (1689 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: DBV (Croatia) -> LGW (United Kingdom) (1690 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> DBV (Croatia) (1690 km) on airline  from France
+Found 5th freedom: DXB (United Arab Emirates) -> JED (Saudi Arabia) (1699 km) on airline Qantas Airways from Australia
+Found 5th freedom: JED (Saudi Arabia) -> DXB (United Arab Emirates) (1699 km) on airline Qantas Airways from Australia
+Found 5th freedom: LIS (Portugal) -> LUX (Luxembourg) (1712 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LUX (Luxembourg) -> LIS (Portugal) (1712 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: AGP (Spain) -> LTN (United Kingdom) (1721 km) on airline  from France
+Found 5th freedom: LTN (United Kingdom) -> AGP (Spain) (1721 km) on airline  from France
+Found 5th freedom: BSL (Switzerland) -> FAO (Portugal) (1728 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FAO (Portugal) -> BSL (Switzerland) (1728 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ATH (Greece) -> GVA (Switzerland) (1731 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GVA (Switzerland) -> ATH (Greece) (1731 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LCA (Cyprus) -> MLA (Malta) (1737 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: MLA (Malta) -> LCA (Cyprus) (1737 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: CMN (Morocco) -> LYS (France) (1748 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LYS (France) -> CMN (Morocco) (1748 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: NCL (United Kingdom) -> PMI (Spain) (1753 km) on airline  from France
+Found 5th freedom: PMI (Spain) -> NCL (United Kingdom) (1753 km) on airline  from France
+Found 5th freedom: FAO (Portugal) -> LTN (United Kingdom) (1757 km) on airline  from France
+Found 5th freedom: LTN (United Kingdom) -> FAO (Portugal) (1757 km) on airline  from France
+Found 5th freedom: BCN (Spain) -> CPH (Denmark) (1769 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> BCN (Spain) (1769 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: FAO (Portugal) -> STN (United Kingdom) (1774 km) on airline  from France
+Found 5th freedom: STN (United Kingdom) -> FAO (Portugal) (1774 km) on airline  from France
+Found 5th freedom: KEF (Iceland) -> OSL (Norway) (1781 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> KEF (Iceland) (1781 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BHX (United Kingdom) -> FAO (Portugal) (1784 km) on airline  from France
+Found 5th freedom: FAO (Portugal) -> BHX (United Kingdom) (1784 km) on airline  from France
+Found 5th freedom: HER (Greece) -> MXP (Italy) (1795 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> HER (Greece) (1795 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ATH (Greece) -> SXF (Germany) (1798 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> ATH (Greece) (1798 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: DYU (Tajikistan) -> REN (Russia) (1802 km) on airline SZA from Austria
+Found 5th freedom: REN (Russia) -> DYU (Tajikistan) (1802 km) on airline SZA from Austria
+Found 5th freedom: IBZ (Spain) -> NCL (United Kingdom) (1812 km) on airline  from France
+Found 5th freedom: NCL (United Kingdom) -> IBZ (Spain) (1812 km) on airline  from France
+Found 5th freedom: AUA (Aruba) -> MIA (United States) (1828 km) on airline  from Netherlands Antilles
+Found 5th freedom: MIA (United States) -> AUA (Aruba) (1828 km) on airline  from Netherlands Antilles
+Found 5th freedom: EMA (United Kingdom) -> FAO (Portugal) (1833 km) on airline  from France
+Found 5th freedom: FAO (Portugal) -> EMA (United Kingdom) (1833 km) on airline  from France
+Found 5th freedom: LEI (Spain) -> MAN (United Kingdom) (1836 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> LEI (Spain) (1836 km) on airline  from France
+Found 5th freedom: CTA (Italy) -> HAM (Germany) (1839 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: HAM (Germany) -> CTA (Italy) (1839 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> SKG (Greece) (1841 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: SKG (Greece) -> CPH (Denmark) (1841 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: GYD (Azerbaijan) -> KBP (Ukraine) (1846 km) on airline  from Egypt
+Found 5th freedom: KBP (Ukraine) -> GYD (Azerbaijan) (1846 km) on airline  from Egypt
+Found 5th freedom: AMS (Netherlands) -> LIS (Portugal) (1846 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LIS (Portugal) -> AMS (Netherlands) (1846 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MAD (Spain) -> SXF (Germany) (1852 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> MAD (Spain) (1852 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BHX (United Kingdom) -> DBV (Croatia) (1853 km) on airline  from France
+Found 5th freedom: DBV (Croatia) -> BHX (United Kingdom) (1853 km) on airline  from France
+Found 5th freedom: BZV (Congo (Brazzaville)) -> COO (Benin) (1853 km) on airline  from Mauritania
+Found 5th freedom: COO (Benin) -> BZV (Congo (Brazzaville)) (1853 km) on airline  from Mauritania
+Found 5th freedom: NCE (France) -> OSL (Norway) (1857 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> NCE (France) (1857 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MAN (United Kingdom) -> NAP (Italy) (1860 km) on airline  from France
+Found 5th freedom: NAP (Italy) -> MAN (United Kingdom) (1860 km) on airline  from France
+Found 5th freedom: AGP (Spain) -> MAN (United Kingdom) (1863 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> AGP (Spain) (1863 km) on airline  from France
+Found 5th freedom: GVA (Switzerland) -> JMK (Greece) (1863 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: JMK (Greece) -> GVA (Switzerland) (1863 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ALC (Spain) -> NCL (United Kingdom) (1865 km) on airline  from France
+Found 5th freedom: NCL (United Kingdom) -> ALC (Spain) (1865 km) on airline  from France
+Found 5th freedom: FAO (Portugal) -> MAN (United Kingdom) (1869 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> FAO (Portugal) (1869 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> NBE (Tunisia) (1877 km) on airline  from France
+Found 5th freedom: NBE (Tunisia) -> LGW (United Kingdom) (1877 km) on airline  from France
+Found 5th freedom: EDI (United Kingdom) -> PMI (Spain) (1878 km) on airline  from France
+Found 5th freedom: PMI (Spain) -> EDI (United Kingdom) (1878 km) on airline  from France
+Found 5th freedom: GLA (United Kingdom) -> PMI (Spain) (1890 km) on airline  from France
+Found 5th freedom: PMI (Spain) -> GLA (United Kingdom) (1890 km) on airline  from France
+Found 5th freedom: NCE (France) -> RAK (Morocco) (1891 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: RAK (Morocco) -> NCE (France) (1891 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LBD (Tajikistan) -> OVB (Russia) (1904 km) on airline SZA from Austria
+Found 5th freedom: OVB (Russia) -> LBD (Tajikistan) (1904 km) on airline SZA from Austria
+Found 5th freedom: LBD (Tajikistan) -> TJM (Russia) (1914 km) on airline SZA from Austria
+Found 5th freedom: TJM (Russia) -> LBD (Tajikistan) (1914 km) on airline SZA from Austria
+Found 5th freedom: CPH (Denmark) -> PMI (Spain) (1931 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: PMI (Spain) -> CPH (Denmark) (1931 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CDG (France) -> CMN (Morocco) (1932 km) on airline  from Mauritania
+Found 5th freedom: CMN (Morocco) -> CDG (France) (1932 km) on airline  from Mauritania
+Found 5th freedom: CDG (France) -> CMN (Morocco) (1932 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CMN (Morocco) -> CDG (France) (1932 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: RGN (Burma) -> SIN (Singapore) (1932 km) on airline  from Kazakhstan
+Found 5th freedom: SIN (Singapore) -> RGN (Burma) (1932 km) on airline  from Kazakhstan
+Found 5th freedom: DBV (Croatia) -> MAN (United Kingdom) (1932 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> DBV (Croatia) (1932 km) on airline  from France
+Found 5th freedom: LYS (France) -> RAK (Morocco) (1935 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: RAK (Morocco) -> LYS (France) (1935 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: KEF (Iceland) -> LGW (United Kingdom) (1935 km) on airline  from Netherlands
+Found 5th freedom: LGW (United Kingdom) -> KEF (Iceland) (1935 km) on airline  from Netherlands
+Found 5th freedom: CTA (Italy) -> LGW (United Kingdom) (1938 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> CTA (Italy) (1938 km) on airline  from France
+Found 5th freedom: GLA (United Kingdom) -> IBZ (Spain) (1938 km) on airline  from France
+Found 5th freedom: SYD (Australia) -> ZQN (New Zealand) (1939 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: ZQN (New Zealand) -> SYD (Australia) (1939 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: DXB (United Arab Emirates) -> DYU (Tajikistan) (1944 km) on airline SZA from Austria
+Found 5th freedom: DYU (Tajikistan) -> DXB (United Arab Emirates) (1944 km) on airline SZA from Austria
+Found 5th freedom: CMN (Morocco) -> MXP (Italy) (1947 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> CMN (Morocco) (1947 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LBD (Tajikistan) -> SVX (Russia) (1947 km) on airline SZA from Austria
+Found 5th freedom: SVX (Russia) -> LBD (Tajikistan) (1947 km) on airline SZA from Austria
+Found 5th freedom: ALC (Spain) -> GLA (United Kingdom) (1977 km) on airline  from France
+Found 5th freedom: GLA (United Kingdom) -> ALC (Spain) (1977 km) on airline  from France
+Found 5th freedom: TLV (Israel) -> VIN (Ukraine) (1986 km) on airline  from Netherlands
+Found 5th freedom: VIN (Ukraine) -> TLV (Israel) (1986 km) on airline  from Netherlands
+Found 5th freedom: EZE (Argentina) -> GIG (Brazil) (1996 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: GIG (Brazil) -> EZE (Argentina) (1996 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: BRS (United Kingdom) -> NBE (Tunisia) (1997 km) on airline  from France
+Found 5th freedom: NBE (Tunisia) -> BRS (United Kingdom) (1997 km) on airline  from France
+Found 5th freedom: DME (Russia) -> TIV (Montenegro) (2001 km) on airline  from Canada
+Found 5th freedom: TIV (Montenegro) -> DME (Russia) (2001 km) on airline  from Canada
+Found 5th freedom: GVA (Switzerland) -> HER (Greece) (2003 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: HER (Greece) -> GVA (Switzerland) (2003 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CPH (Denmark) -> IST (Turkey) (2009 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: IST (Turkey) -> CPH (Denmark) (2009 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CFU (Greece) -> LGW (United Kingdom) (2017 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> CFU (Greece) (2017 km) on airline  from France
+Found 5th freedom: AMM (Jordan) -> DXB (United Arab Emirates) (2022 km) on airline Qantas Airways from Australia
+Found 5th freedom: DXB (United Arab Emirates) -> AMM (Jordan) (2022 km) on airline Qantas Airways from Australia
+Found 5th freedom: NBE (Tunisia) -> CWL (United Kingdom) (2024 km) on airline  from France
+Found 5th freedom: GVA (Switzerland) -> RAK (Morocco) (2029 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: RAK (Morocco) -> GVA (Switzerland) (2029 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ATH (Greece) -> HAM (Germany) (2045 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: HAM (Germany) -> ATH (Greece) (2045 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FCO (Italy) -> OSL (Norway) (2046 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> FCO (Italy) (2046 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: AGP (Spain) -> NCL (United Kingdom) (2053 km) on airline  from France
+Found 5th freedom: NCL (United Kingdom) -> AGP (Spain) (2053 km) on airline  from France
+Found 5th freedom: BHX (United Kingdom) -> NBE (Tunisia) (2057 km) on airline  from France
+Found 5th freedom: NBE (Tunisia) -> BHX (United Kingdom) (2057 km) on airline  from France
+Found 5th freedom: CPH (Denmark) -> MAD (Spain) (2058 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MAD (Spain) -> CPH (Denmark) (2058 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: FAO (Portugal) -> NCL (United Kingdom) (2060 km) on airline  from France
+Found 5th freedom: NCL (United Kingdom) -> FAO (Portugal) (2060 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> MLA (Malta) (2063 km) on airline  from France
+Found 5th freedom: MLA (Malta) -> LGW (United Kingdom) (2063 km) on airline  from France
+Found 5th freedom: EMA (United Kingdom) -> NBE (Tunisia) (2078 km) on airline  from France
+Found 5th freedom: NBE (Tunisia) -> EMA (United Kingdom) (2078 km) on airline  from France
+Found 5th freedom: ATH (Greece) -> ORY (France) (2106 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ORY (France) -> ATH (Greece) (2106 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: HER (Greece) -> SXF (Germany) (2107 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> HER (Greece) (2107 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: DYU (Tajikistan) -> SVX (Russia) (2108 km) on airline SZA from Austria
+Found 5th freedom: SVX (Russia) -> DYU (Tajikistan) (2108 km) on airline SZA from Austria
+Found 5th freedom: FAO (Portugal) -> GLA (United Kingdom) (2114 km) on airline  from France
+Found 5th freedom: GLA (United Kingdom) -> FAO (Portugal) (2114 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> PVK (Greece) (2122 km) on airline  from France
+Found 5th freedom: PVK (Greece) -> LGW (United Kingdom) (2122 km) on airline  from France
+Found 5th freedom: MXP (Italy) -> RAK (Morocco) (2125 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: RAK (Morocco) -> MXP (Italy) (2125 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CHC (New Zealand) -> SYD (Australia) (2126 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: SYD (Australia) -> CHC (New Zealand) (2126 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: AGA (Morocco) -> LYS (France) (2127 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LYS (France) -> AGA (Morocco) (2127 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CDG (France) -> RAK (Morocco) (2129 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: RAK (Morocco) -> CDG (France) (2129 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LGW (United Kingdom) -> SKG (Greece) (2134 km) on airline  from France
+Found 5th freedom: AGP (Spain) -> GLA (United Kingdom) (2135 km) on airline  from France
+Found 5th freedom: GLA (United Kingdom) -> AGP (Spain) (2135 km) on airline  from France
+Found 5th freedom: NRT (Japan) -> PEK (China) (2135 km) on airline PIA Pakistan International from Pakistan
+Found 5th freedom: PEK (China) -> NRT (Japan) (2135 km) on airline PIA Pakistan International from Pakistan
+Found 5th freedom: ATH (Greece) -> CPH (Denmark) (2139 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> ATH (Greece) (2139 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> KEF (Iceland) (2144 km) on airline  from Netherlands
+Found 5th freedom: KEF (Iceland) -> CPH (Denmark) (2144 km) on airline  from Netherlands
+Found 5th freedom: HER (Greece) -> VNO (Lithuania) (2145 km) on airline  from Netherlands
+Found 5th freedom: VNO (Lithuania) -> HER (Greece) (2145 km) on airline  from Netherlands
+Found 5th freedom: CXI (Kiribati) -> HNL (United States) (2151 km) on airline Qantas Airways from Australia
+Found 5th freedom: HNL (United States) -> CXI (Kiribati) (2151 km) on airline Qantas Airways from Australia
+Found 5th freedom: AKL (New Zealand) -> NAN (Fiji) (2156 km) on airline Qantas Airways from Australia
+Found 5th freedom: NAN (Fiji) -> AKL (New Zealand) (2156 km) on airline Qantas Airways from Australia
+Found 5th freedom: AKL (New Zealand) -> SYD (Australia) (2160 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: SYD (Australia) -> AKL (New Zealand) (2160 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: MAN (United Kingdom) -> NBE (Tunisia) (2161 km) on airline  from France
+Found 5th freedom: NBE (Tunisia) -> MAN (United Kingdom) (2161 km) on airline  from France
+Found 5th freedom: HEL (Finland) -> IST (Turkey) (2167 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: IST (Turkey) -> HEL (Finland) (2167 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BLL (Denmark) -> IST (Turkey) (2177 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: NRT (Japan) -> TPE (Taiwan) (2181 km) on airline  from Singapore
+Found 5th freedom: TPE (Taiwan) -> NRT (Japan) (2181 km) on airline  from Singapore
+Found 5th freedom: BRS (United Kingdom) -> CFU (Greece) (2182 km) on airline  from France
+Found 5th freedom: CFU (Greece) -> BRS (United Kingdom) (2182 km) on airline  from France
+Found 5th freedom: BCN (Spain) -> OSL (Norway) (2190 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> BCN (Spain) (2190 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BSL (Switzerland) -> RAK (Morocco) (2213 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: RAK (Morocco) -> BSL (Switzerland) (2213 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CTA (Italy) -> MAN (United Kingdom) (2213 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> CTA (Italy) (2213 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> ZTH (Greece) (2225 km) on airline  from France
+Found 5th freedom: ZTH (Greece) -> LGW (United Kingdom) (2225 km) on airline  from France
+Found 5th freedom: HME (Algeria) -> LGW (United Kingdom) (2227 km) on airline  from Brazil
+Found 5th freedom: LGW (United Kingdom) -> HME (Algeria) (2227 km) on airline  from Brazil
+Found 5th freedom: SYD (Australia) -> WLG (New Zealand) (2228 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: WLG (New Zealand) -> SYD (Australia) (2228 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: CDG (France) -> KEF (Iceland) (2241 km) on airline  from Netherlands
+Found 5th freedom: KEF (Iceland) -> CDG (France) (2241 km) on airline  from Netherlands
+Found 5th freedom: AYT (Turkey) -> BSL (Switzerland) (2241 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> AYT (Turkey) (2241 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: AGP (Spain) -> SXF (Germany) (2243 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> AGP (Spain) (2243 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: IST (Turkey) -> AAL (Denmark) (2247 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: LGW (United Kingdom) -> RAK (Morocco) (2266 km) on airline  from France
+Found 5th freedom: RAK (Morocco) -> LGW (United Kingdom) (2266 km) on airline  from France
+Found 5th freedom: CFU (Greece) -> MAN (United Kingdom) (2268 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> CFU (Greece) (2268 km) on airline  from France
+Found 5th freedom: KZN (Russia) -> LBD (Tajikistan) (2273 km) on airline SZA from Austria
+Found 5th freedom: LBD (Tajikistan) -> KZN (Russia) (2273 km) on airline SZA from Austria
+Found 5th freedom: FCO (Italy) -> TLV (Israel) (2278 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: TLV (Israel) -> FCO (Italy) (2278 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: AKL (New Zealand) -> BNE (Australia) (2295 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: BNE (Australia) -> AKL (New Zealand) (2295 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: ALC (Spain) -> KRS (Norway) (2301 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: KRS (Norway) -> ALC (Spain) (2301 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: NBE (Tunisia) -> NCL (United Kingdom) (2303 km) on airline  from France
+Found 5th freedom: NCL (United Kingdom) -> NBE (Tunisia) (2303 km) on airline  from France
+Found 5th freedom: LIS (Portugal) -> SXF (Germany) (2305 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> LIS (Portugal) (2305 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: AGA (Morocco) -> CDG (France) (2309 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CDG (France) -> AGA (Morocco) (2309 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: HMA (Russia) -> LBD (Tajikistan) (2315 km) on airline SZA from Austria
+Found 5th freedom: LBD (Tajikistan) -> HMA (Russia) (2315 km) on airline SZA from Austria
+Found 5th freedom: ALC (Spain) -> SVG (Norway) (2333 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: SVG (Norway) -> ALC (Spain) (2333 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: LBD (Tajikistan) -> NJC (Russia) (2352 km) on airline SZA from Austria
+Found 5th freedom: NJC (Russia) -> LBD (Tajikistan) (2352 km) on airline SZA from Austria
+Found 5th freedom: OSL (Norway) -> PMI (Spain) (2368 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: PMI (Spain) -> OSL (Norway) (2368 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MAN (United Kingdom) -> PVK (Greece) (2373 km) on airline  from France
+Found 5th freedom: PVK (Greece) -> MAN (United Kingdom) (2373 km) on airline  from France
+Found 5th freedom: BHX (United Kingdom) -> RAK (Morocco) (2373 km) on airline  from France
+Found 5th freedom: RAK (Morocco) -> BHX (United Kingdom) (2373 km) on airline  from France
+Found 5th freedom: DYU (Tajikistan) -> KZN (Russia) (2389 km) on airline SZA from Austria
+Found 5th freedom: KZN (Russia) -> DYU (Tajikistan) (2389 km) on airline SZA from Austria
+Found 5th freedom: HER (Greece) -> RIX (Latvia) (2402 km) on airline  from Netherlands
+Found 5th freedom: RIX (Latvia) -> HER (Greece) (2402 km) on airline  from Netherlands
+Found 5th freedom: LCA (Cyprus) -> MXP (Italy) (2413 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MXP (Italy) -> LCA (Cyprus) (2413 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: EVN (Armenia) -> TJM (Russia) (2419 km) on airline  from Canada
+Found 5th freedom: TJM (Russia) -> EVN (Armenia) (2419 km) on airline  from Canada
+Found 5th freedom: KJA (Russia) -> LBD (Tajikistan) (2428 km) on airline SZA from Austria
+Found 5th freedom: LBD (Tajikistan) -> KJA (Russia) (2428 km) on airline SZA from Austria
+Found 5th freedom: KEF (Iceland) -> SXF (Germany) (2431 km) on airline  from Netherlands
+Found 5th freedom: SXF (Germany) -> KEF (Iceland) (2431 km) on airline  from Netherlands
+Found 5th freedom: AGA (Morocco) -> LGW (United Kingdom) (2435 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> AGA (Morocco) (2435 km) on airline  from France
+Found 5th freedom: KWI (Kuwait) -> ADD (Ethiopia) (2446 km) on airline SAA South African Airways from South Africa
+Found 5th freedom: FNC (Portugal) -> LGW (United Kingdom) (2456 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> FNC (Portugal) (2456 km) on airline  from France
+Found 5th freedom: IST (Turkey) -> OSL (Norway) (2458 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> IST (Turkey) (2458 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: LIM (Peru) -> SCL (Chile) (2462 km) on airline JAL Japan Airlines from Japan
+Found 5th freedom: SCL (Chile) -> LIM (Peru) (2462 km) on airline JAL Japan Airlines from Japan
+Found 5th freedom: MAN (United Kingdom) -> RAK (Morocco) (2462 km) on airline  from France
+Found 5th freedom: RAK (Morocco) -> MAN (United Kingdom) (2462 km) on airline  from France
+Found 5th freedom: AGP (Spain) -> CPH (Denmark) (2472 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> AGP (Spain) (2472 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: AER (Russia) -> LBD (Tajikistan) (2476 km) on airline SZA from Austria
+Found 5th freedom: LBD (Tajikistan) -> AER (Russia) (2476 km) on airline SZA from Austria
+Found 5th freedom: ALC (Spain) -> BGO (Norway) (2481 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BGO (Norway) -> ALC (Spain) (2481 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MAN (United Kingdom) -> ZTH (Greece) (2481 km) on airline  from France
+Found 5th freedom: BHX (United Kingdom) -> FNC (Portugal) (2506 km) on airline  from France
+Found 5th freedom: FNC (Portugal) -> BHX (United Kingdom) (2506 km) on airline  from France
+Found 5th freedom: JMK (Greece) -> LGW (United Kingdom) (2519 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> JMK (Greece) (2519 km) on airline  from France
+Found 5th freedom: KRR (Russia) -> LBD (Tajikistan) (2538 km) on airline SZA from Austria
+Found 5th freedom: LBD (Tajikistan) -> KRR (Russia) (2538 km) on airline SZA from Austria
+Found 5th freedom: DYU (Tajikistan) -> KRR (Russia) (2546 km) on airline SZA from Austria
+Found 5th freedom: KRR (Russia) -> DYU (Tajikistan) (2546 km) on airline SZA from Austria
+Found 5th freedom: ADB (Turkey) -> LGW (United Kingdom) (2567 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> ADB (Turkey) (2567 km) on airline  from France
+Found 5th freedom: FNC (Portugal) -> MAN (United Kingdom) (2570 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> FNC (Portugal) (2570 km) on airline  from France
+Found 5th freedom: ALC (Spain) -> OSL (Norway) (2570 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> ALC (Spain) (2570 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BSL (Switzerland) -> KEF (Iceland) (2576 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: KEF (Iceland) -> BSL (Switzerland) (2576 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BSL (Switzerland) -> LCA (Cyprus) (2581 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LCA (Cyprus) -> BSL (Switzerland) (2581 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: MEL (Australia) -> WLG (New Zealand) (2589 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: WLG (New Zealand) -> MEL (Australia) (2589 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: LGW (United Kingdom) -> CHQ (Greece) (2603 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> JTR (Greece) (2611 km) on airline  from France
+Found 5th freedom: CPH (Denmark) -> GZP (Turkey) (2611 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: GZP (Turkey) -> CPH (Denmark) (2611 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: AGA (Morocco) -> MAN (United Kingdom) (2621 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> AGA (Morocco) (2621 km) on airline  from France
+Found 5th freedom: DYU (Tajikistan) -> KJA (Russia) (2623 km) on airline SZA from Austria
+Found 5th freedom: KJA (Russia) -> DYU (Tajikistan) (2623 km) on airline SZA from Austria
+Found 5th freedom: ATH (Greece) -> OSL (Norway) (2635 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> ATH (Greece) (2635 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: AKL (New Zealand) -> MEL (Australia) (2637 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: MEL (Australia) -> AKL (New Zealand) (2637 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: DAC (Bangladesh) -> KUL (Malaysia) (2642 km) on airline Rainbow Air POL from United States
+Found 5th freedom: KUL (Malaysia) -> DAC (Bangladesh) (2642 km) on airline Rainbow Air POL from United States
+Found 5th freedom: HER (Greece) -> TLL (Estonia) (2677 km) on airline  from Netherlands
+Found 5th freedom: TLL (Estonia) -> HER (Greece) (2677 km) on airline  from Netherlands
+Found 5th freedom: KGS (Greece) -> LGW (United Kingdom) (2679 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> KGS (Greece) (2679 km) on airline  from France
+Found 5th freedom: BJV (Turkey) -> LGW (United Kingdom) (2679 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> BJV (Turkey) (2679 km) on airline  from France
+Found 5th freedom: HER (Greece) -> LGW (United Kingdom) (2680 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> HER (Greece) (2680 km) on airline  from France
+Found 5th freedom: STN (United Kingdom) -> KGS (Greece) (2690 km) on airline  from France
+Found 5th freedom: MXP (Italy) -> TLV (Israel) (2706 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: TLV (Israel) -> MXP (Italy) (2706 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ACE (Spain) -> LGW (United Kingdom) (2710 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> ACE (Spain) (2710 km) on airline  from France
+Found 5th freedom: BRS (United Kingdom) -> FUE (Spain) (2714 km) on airline  from France
+Found 5th freedom: FUE (Spain) -> BRS (United Kingdom) (2714 km) on airline  from France
+Found 5th freedom: ADB (Turkey) -> BHX (United Kingdom) (2723 km) on airline  from France
+Found 5th freedom: BHX (United Kingdom) -> ADB (Turkey) (2723 km) on airline  from France
+Found 5th freedom: FUE (Spain) -> LGW (United Kingdom) (2770 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> FUE (Spain) (2770 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> RHO (Greece) (2772 km) on airline  from France
+Found 5th freedom: RHO (Greece) -> LGW (United Kingdom) (2772 km) on airline  from France
+Found 5th freedom: ACE (Spain) -> LTN (United Kingdom) (2775 km) on airline  from France
+Found 5th freedom: LTN (United Kingdom) -> ACE (Spain) (2775 km) on airline  from France
+Found 5th freedom: RHO (Greece) -> STN (United Kingdom) (2782 km) on airline  from France
+Found 5th freedom: STN (United Kingdom) -> RHO (Greece) (2782 km) on airline  from France
+Found 5th freedom: ACE (Spain) -> BHX (United Kingdom) (2790 km) on airline  from France
+Found 5th freedom: BHX (United Kingdom) -> ACE (Spain) (2790 km) on airline  from France
+Found 5th freedom: DLM (Turkey) -> LGW (United Kingdom) (2793 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> DLM (Turkey) (2793 km) on airline  from France
+Found 5th freedom: ACE (Spain) -> STN (United Kingdom) (2796 km) on airline  from France
+Found 5th freedom: STN (United Kingdom) -> ACE (Spain) (2796 km) on airline  from France
+Found 5th freedom: ADB (Turkey) -> MAN (United Kingdom) (2797 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> ADB (Turkey) (2797 km) on airline  from France
+Found 5th freedom: DLM (Turkey) -> STN (United Kingdom) (2800 km) on airline  from France
+Found 5th freedom: STN (United Kingdom) -> DLM (Turkey) (2800 km) on airline  from France
+Found 5th freedom: BRS (United Kingdom) -> LPA (Spain) (2815 km) on airline  from France
+Found 5th freedom: LPA (Spain) -> BRS (United Kingdom) (2815 km) on airline  from France
+Found 5th freedom: BOH (United Kingdom) -> TFS (Spain) (2815 km) on airline  from France
+Found 5th freedom: TFS (Spain) -> BOH (United Kingdom) (2815 km) on airline  from France
+Found 5th freedom: BSL (Switzerland) -> FUE (Spain) (2816 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FUE (Spain) -> BSL (Switzerland) (2816 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CWL (United Kingdom) -> TFS (Spain) (2822 km) on airline  from France
+Found 5th freedom: TFS (Spain) -> CWL (United Kingdom) (2822 km) on airline  from France
+Found 5th freedom: GVA (Switzerland) -> TFS (Spain) (2832 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: TFS (Spain) -> GVA (Switzerland) (2832 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: FUE (Spain) -> LTN (United Kingdom) (2835 km) on airline  from France
+Found 5th freedom: LTN (United Kingdom) -> FUE (Spain) (2835 km) on airline  from France
+Found 5th freedom: DLM (Turkey) -> LTN (United Kingdom) (2837 km) on airline  from France
+Found 5th freedom: LTN (United Kingdom) -> DLM (Turkey) (2837 km) on airline  from France
+Found 5th freedom: BHX (United Kingdom) -> BJV (Turkey) (2837 km) on airline  from France
+Found 5th freedom: ACE (Spain) -> EMA (United Kingdom) (2840 km) on airline  from France
+Found 5th freedom: EMA (United Kingdom) -> ACE (Spain) (2840 km) on airline  from France
+Found 5th freedom: AGP (Spain) -> OSL (Norway) (2841 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> AGP (Spain) (2841 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BRS (United Kingdom) -> TFS (Spain) (2842 km) on airline  from France
+Found 5th freedom: TFS (Spain) -> BRS (United Kingdom) (2842 km) on airline  from France
+Found 5th freedom: SXF (Germany) -> TLV (Israel) (2846 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: TLV (Israel) -> SXF (Germany) (2846 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CDG (France) -> TFS (Spain) (2847 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: TFS (Spain) -> CDG (France) (2847 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: HER (Greece) -> BHX (United Kingdom) (2847 km) on airline  from France
+Found 5th freedom: BHX (United Kingdom) -> FUE (Spain) (2850 km) on airline  from France
+Found 5th freedom: FUE (Spain) -> BHX (United Kingdom) (2850 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> JTR (Greece) (2855 km) on airline  from France
+Found 5th freedom: FUE (Spain) -> STN (United Kingdom) (2856 km) on airline  from France
+Found 5th freedom: STN (United Kingdom) -> FUE (Spain) (2856 km) on airline  from France
+Found 5th freedom: ACE (Spain) -> MAN (United Kingdom) (2867 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> ACE (Spain) (2867 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> LPA (Spain) (2879 km) on airline  from France
+Found 5th freedom: LPA (Spain) -> LGW (United Kingdom) (2879 km) on airline  from France
+Found 5th freedom: BSL (Switzerland) -> TLV (Israel) (2884 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: TLV (Israel) -> BSL (Switzerland) (2884 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CWL (United Kingdom) -> HER (Greece) (2885 km) on airline  from France
+Found 5th freedom: RAK (Morocco) -> SXF (Germany) (2894 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> RAK (Morocco) (2894 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: CHQ (Greece) -> OSL (Norway) (2898 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> CHQ (Greece) (2898 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: DAC (Bangladesh) -> SIN (Singapore) (2898 km) on airline Rainbow Air POL from United States
+Found 5th freedom: SIN (Singapore) -> DAC (Bangladesh) (2898 km) on airline Rainbow Air POL from United States
+Found 5th freedom: NAN (Fiji) -> CHC (New Zealand) (2898 km) on airline Qantas Airways from Australia
+Found 5th freedom: FUE (Spain) -> EMA (United Kingdom) (2900 km) on airline  from France
+Found 5th freedom: ALC (Spain) -> TRD (Norway) (2903 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: TRD (Norway) -> ALC (Spain) (2903 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: AYT (Turkey) -> LGW (United Kingdom) (2908 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> AYT (Turkey) (2908 km) on airline  from France
+Found 5th freedom: HKG (Hong Kong) -> ULN (Mongolia) (2910 km) on airline Homer Sky from Germany
+Found 5th freedom: ULN (Mongolia) -> HKG (Hong Kong) (2910 km) on airline Homer Sky from Germany
+Found 5th freedom: BJV (Turkey) -> MAN (United Kingdom) (2912 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> BJV (Turkey) (2912 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> TFS (Spain) (2912 km) on airline  from France
+Found 5th freedom: TFS (Spain) -> LGW (United Kingdom) (2912 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> KGS (Greece) (2916 km) on airline  from France
+Found 5th freedom: GVA (Switzerland) -> TLV (Israel) (2919 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: TLV (Israel) -> GVA (Switzerland) (2919 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: EMA (United Kingdom) -> RHO (Greece) (2924 km) on airline  from France
+Found 5th freedom: RHO (Greece) -> EMA (United Kingdom) (2924 km) on airline  from France
+Found 5th freedom: FUE (Spain) -> MAN (United Kingdom) (2927 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> FUE (Spain) (2927 km) on airline  from France
+Found 5th freedom: HER (Greece) -> MAN (United Kingdom) (2929 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> HER (Greece) (2929 km) on airline  from France
+Found 5th freedom: LPA (Spain) -> LTN (United Kingdom) (2941 km) on airline  from France
+Found 5th freedom: LTN (United Kingdom) -> LPA (Spain) (2941 km) on airline  from France
+Found 5th freedom: DLM (Turkey) -> EMA (United Kingdom) (2942 km) on airline  from France
+Found 5th freedom: EMA (United Kingdom) -> DLM (Turkey) (2942 km) on airline  from France
+Found 5th freedom: DME (Russia) -> FRU (Kyrgyzstan) (2943 km) on airline Apache from United States
+Found 5th freedom: FRU (Kyrgyzstan) -> DME (Russia) (2943 km) on airline Apache from United States
+Found 5th freedom: AYT (Turkey) -> LTN (United Kingdom) (2949 km) on airline  from France
+Found 5th freedom: LTN (United Kingdom) -> AYT (Turkey) (2949 km) on airline  from France
+Found 5th freedom: BHX (United Kingdom) -> DLM (Turkey) (2950 km) on airline  from France
+Found 5th freedom: DLM (Turkey) -> BHX (United Kingdom) (2950 km) on airline  from France
+Found 5th freedom: BSL (Switzerland) -> LPA (Spain) (2950 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: LPA (Spain) -> BSL (Switzerland) (2950 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: BHX (United Kingdom) -> LPA (Spain) (2951 km) on airline  from France
+Found 5th freedom: LPA (Spain) -> BHX (United Kingdom) (2951 km) on airline  from France
+Found 5th freedom: DME (Russia) -> DYU (Tajikistan) (2962 km) on airline SZA from Austria
+Found 5th freedom: DYU (Tajikistan) -> DME (Russia) (2962 km) on airline SZA from Austria
+Found 5th freedom: LPA (Spain) -> STN (United Kingdom) (2964 km) on airline  from France
+Found 5th freedom: STN (United Kingdom) -> LPA (Spain) (2964 km) on airline  from France
+Found 5th freedom: BRS (United Kingdom) -> DLM (Turkey) (2965 km) on airline  from France
+Found 5th freedom: DLM (Turkey) -> BRS (United Kingdom) (2965 km) on airline  from France
+Found 5th freedom: LTN (United Kingdom) -> TFS (Spain) (2973 km) on airline  from France
+Found 5th freedom: TFS (Spain) -> LTN (United Kingdom) (2973 km) on airline  from France
+Found 5th freedom: BHX (United Kingdom) -> TFS (Spain) (2978 km) on airline  from France
+Found 5th freedom: TFS (Spain) -> BHX (United Kingdom) (2978 km) on airline  from France
+Found 5th freedom: CWL (United Kingdom) -> RHO (Greece) (2984 km) on airline  from France
+Found 5th freedom: MXP (Italy) -> SSH (Egypt) (2989 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SSH (Egypt) -> MXP (Italy) (2989 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: STN (United Kingdom) -> TFS (Spain) (2997 km) on airline  from France
+Found 5th freedom: TFS (Spain) -> STN (United Kingdom) (2997 km) on airline  from France
+Found 5th freedom: EMA (United Kingdom) -> LPA (Spain) (3001 km) on airline  from France
+Found 5th freedom: LPA (Spain) -> EMA (United Kingdom) (3001 km) on airline  from France
+Found 5th freedom: NCL (United Kingdom) -> HER (Greece) (3002 km) on airline  from France
+Found 5th freedom: CWL (United Kingdom) -> DLM (Turkey) (3006 km) on airline  from France
+Found 5th freedom: DLM (Turkey) -> CWL (United Kingdom) (3006 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> RHO (Greece) (3007 km) on airline  from France
+Found 5th freedom: RHO (Greece) -> MAN (United Kingdom) (3007 km) on airline  from France
+Found 5th freedom: DXB (United Arab Emirates) -> IST (Turkey) (3008 km) on airline Qantas Airways from Australia
+Found 5th freedom: IST (Turkey) -> DXB (United Arab Emirates) (3008 km) on airline Qantas Airways from Australia
+Found 5th freedom: BSL (Switzerland) -> TFS (Spain) (3010 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: TFS (Spain) -> BSL (Switzerland) (3010 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: DLM (Turkey) -> LBA (United Kingdom) (3012 km) on airline  from France
+Found 5th freedom: LBA (United Kingdom) -> DLM (Turkey) (3012 km) on airline  from France
+Found 5th freedom: DLM (Turkey) -> MAN (United Kingdom) (3024 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> DLM (Turkey) (3024 km) on airline  from France
+Found 5th freedom: LPA (Spain) -> MAN (United Kingdom) (3024 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> LPA (Spain) (3024 km) on airline  from France
+Found 5th freedom: EMA (United Kingdom) -> TFS (Spain) (3029 km) on airline  from France
+Found 5th freedom: TFS (Spain) -> EMA (United Kingdom) (3029 km) on airline  from France
+Found 5th freedom: BKK (Thailand) -> BOM (India) (3031 km) on airline ANA All Nippon Airways from Japan
+Found 5th freedom: BOM (India) -> BKK (Thailand) (3031 km) on airline ANA All Nippon Airways from Japan
+Found 5th freedom: MAN (United Kingdom) -> TFS (Spain) (3048 km) on airline  from France
+Found 5th freedom: TFS (Spain) -> MAN (United Kingdom) (3048 km) on airline  from France
+Found 5th freedom: ACE (Spain) -> NCL (United Kingdom) (3054 km) on airline  from France
+Found 5th freedom: NCL (United Kingdom) -> ACE (Spain) (3054 km) on airline  from France
+Found 5th freedom: GZP (Turkey) -> OSL (Norway) (3056 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> GZP (Turkey) (3056 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: AYT (Turkey) -> BHX (United Kingdom) (3060 km) on airline  from France
+Found 5th freedom: BHX (United Kingdom) -> AYT (Turkey) (3060 km) on airline  from France
+Found 5th freedom: NCL (United Kingdom) -> RHO (Greece) (3062 km) on airline  from France
+Found 5th freedom: RHO (Greece) -> NCL (United Kingdom) (3062 km) on airline  from France
+Found 5th freedom: DLM (Turkey) -> NCL (United Kingdom) (3075 km) on airline  from France
+Found 5th freedom: NCL (United Kingdom) -> DLM (Turkey) (3075 km) on airline  from France
+Found 5th freedom: ACE (Spain) -> GLA (United Kingdom) (3081 km) on airline  from France
+Found 5th freedom: GLA (United Kingdom) -> ACE (Spain) (3081 km) on airline  from France
+Found 5th freedom: AYT (Turkey) -> BRS (United Kingdom) (3083 km) on airline  from France
+Found 5th freedom: AGA (Morocco) -> SXF (Germany) (3084 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: SXF (Germany) -> AGA (Morocco) (3084 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: ADD (Ethiopia) -> HRE (Zimbabwe) (3110 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: LBA (United Kingdom) -> TFS (Spain) (3118 km) on airline  from France
+Found 5th freedom: TFS (Spain) -> LBA (United Kingdom) (3118 km) on airline  from France
+Found 5th freedom: DYU (Tajikistan) -> IKT (Russia) (3124 km) on airline SZA from Austria
+Found 5th freedom: IKT (Russia) -> DYU (Tajikistan) (3124 km) on airline SZA from Austria
+Found 5th freedom: AYT (Turkey) -> MAN (United Kingdom) (3130 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> AYT (Turkey) (3130 km) on airline  from France
+Found 5th freedom: CPH (Denmark) -> TLV (Israel) (3144 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: TLV (Israel) -> CPH (Denmark) (3144 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: GLA (United Kingdom) -> BJV (Turkey) (3162 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> PFO (Cyprus) (3186 km) on airline  from France
+Found 5th freedom: PFO (Cyprus) -> LGW (United Kingdom) (3186 km) on airline  from France
+Found 5th freedom: DUS (Germany) -> LPA (Spain) (3190 km) on airline  from Burma
+Found 5th freedom: LPA (Spain) -> DUS (Germany) (3190 km) on airline  from Burma
+Found 5th freedom: PFO (Cyprus) -> STN (United Kingdom) (3191 km) on airline  from France
+Found 5th freedom: STN (United Kingdom) -> PFO (Cyprus) (3191 km) on airline  from France
+Found 5th freedom: CAI (Egypt) -> CPH (Denmark) (3197 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> CAI (Egypt) (3197 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: ARN (Sweden) -> EBL (Iraq) (3203 km) on airline  from Netherlands
+Found 5th freedom: EBL (Iraq) -> ARN (Sweden) (3203 km) on airline  from Netherlands
+Found 5th freedom: ALC (Spain) -> KEF (Iceland) (3208 km) on airline  from Netherlands
+Found 5th freedom: KEF (Iceland) -> ALC (Spain) (3208 km) on airline  from Netherlands
+Found 5th freedom: GVA (Switzerland) -> HRG (Egypt) (3223 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: HRG (Egypt) -> GVA (Switzerland) (3223 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GLA (United Kingdom) -> LPA (Spain) (3227 km) on airline  from France
+Found 5th freedom: LPA (Spain) -> GLA (United Kingdom) (3227 km) on airline  from France
+Found 5th freedom: LTN (United Kingdom) -> PFO (Cyprus) (3228 km) on airline  from France
+Found 5th freedom: PFO (Cyprus) -> LTN (United Kingdom) (3228 km) on airline  from France
+Found 5th freedom: NCL (United Kingdom) -> TFS (Spain) (3231 km) on airline  from France
+Found 5th freedom: TFS (Spain) -> NCL (United Kingdom) (3231 km) on airline  from France
+Found 5th freedom: GLA (United Kingdom) -> TFS (Spain) (3242 km) on airline  from France
+Found 5th freedom: TFS (Spain) -> GLA (United Kingdom) (3242 km) on airline  from France
+Found 5th freedom: LCA (Cyprus) -> LGW (United Kingdom) (3247 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> LCA (Cyprus) (3247 km) on airline  from France
+Found 5th freedom: GLA (United Kingdom) -> RHO (Greece) (3258 km) on airline  from France
+Found 5th freedom: DLM (Turkey) -> GLA (United Kingdom) (3271 km) on airline  from France
+Found 5th freedom: GLA (United Kingdom) -> DLM (Turkey) (3271 km) on airline  from France
+Found 5th freedom: EDI (United Kingdom) -> TFS (Spain) (3276 km) on airline  from France
+Found 5th freedom: TFS (Spain) -> EDI (United Kingdom) (3276 km) on airline  from France
+Found 5th freedom: LTN (United Kingdom) -> LCA (Cyprus) (3288 km) on airline  from France
+Found 5th freedom: ARN (Sweden) -> ISU (Iraq) (3326 km) on airline  from Netherlands
+Found 5th freedom: ISU (Iraq) -> ARN (Sweden) (3326 km) on airline  from Netherlands
+Found 5th freedom: EBL (Iraq) -> GOT (Sweden) (3329 km) on airline  from Netherlands
+Found 5th freedom: GOT (Sweden) -> EBL (Iraq) (3329 km) on airline  from Netherlands
+Found 5th freedom: EMA (United Kingdom) -> PFO (Cyprus) (3331 km) on airline  from France
+Found 5th freedom: PFO (Cyprus) -> EMA (United Kingdom) (3331 km) on airline  from France
+Found 5th freedom: LIM (Peru) -> POA (Brazil) (3338 km) on airline TACA from Costa Rica
+Found 5th freedom: POA (Brazil) -> LIM (Peru) (3338 km) on airline TACA from Costa Rica
+Found 5th freedom: BHX (United Kingdom) -> PFO (Cyprus) (3340 km) on airline  from France
+Found 5th freedom: PFO (Cyprus) -> BHX (United Kingdom) (3340 km) on airline  from France
+Found 5th freedom: BRS (United Kingdom) -> PFO (Cyprus) (3359 km) on airline  from France
+Found 5th freedom: PFO (Cyprus) -> BRS (United Kingdom) (3359 km) on airline  from France
+Found 5th freedom: EMA (United Kingdom) -> LCA (Cyprus) (3388 km) on airline  from France
+Found 5th freedom: LCA (Cyprus) -> EMA (United Kingdom) (3388 km) on airline  from France
+Found 5th freedom: BHX (United Kingdom) -> LCA (Cyprus) (3399 km) on airline  from France
+Found 5th freedom: DYU (Tajikistan) -> IST (Turkey) (3401 km) on airline SZA from Austria
+Found 5th freedom: IST (Turkey) -> DYU (Tajikistan) (3401 km) on airline SZA from Austria
+Found 5th freedom: MAN (United Kingdom) -> PFO (Cyprus) (3412 km) on airline  from France
+Found 5th freedom: PFO (Cyprus) -> MAN (United Kingdom) (3412 km) on airline  from France
+Found 5th freedom: NCL (United Kingdom) -> PFO (Cyprus) (3456 km) on airline  from France
+Found 5th freedom: PFO (Cyprus) -> NCL (United Kingdom) (3456 km) on airline  from France
+Found 5th freedom: CWL (United Kingdom) -> LCA (Cyprus) (3464 km) on airline  from France
+Found 5th freedom: LCA (Cyprus) -> CWL (United Kingdom) (3464 km) on airline  from France
+Found 5th freedom: LCA (Cyprus) -> MAN (United Kingdom) (3469 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> LCA (Cyprus) (3469 km) on airline  from France
+Found 5th freedom: GRU (Brazil) -> LIM (Peru) (3475 km) on airline TACA from Costa Rica
+Found 5th freedom: LIM (Peru) -> GRU (Brazil) (3475 km) on airline TACA from Costa Rica
+Found 5th freedom: LBD (Tajikistan) -> LED (Russia) (3477 km) on airline SZA from Austria
+Found 5th freedom: LED (Russia) -> LBD (Tajikistan) (3477 km) on airline SZA from Austria
+Found 5th freedom: ARN (Sweden) -> BGW (Iraq) (3510 km) on airline  from Netherlands
+Found 5th freedom: BGW (Iraq) -> ARN (Sweden) (3510 km) on airline  from Netherlands
+Found 5th freedom: DUS (Germany) -> HRG (Egypt) (3511 km) on airline  from Burma
+Found 5th freedom: HRG (Egypt) -> DUS (Germany) (3511 km) on airline  from Burma
+Found 5th freedom: CXI (Kiribati) -> NAN (Fiji) (3528 km) on airline Qantas Airways from Australia
+Found 5th freedom: NAN (Fiji) -> CXI (Kiribati) (3528 km) on airline Qantas Airways from Australia
+Found 5th freedom: DXB (United Arab Emirates) -> NBO (Kenya) (3559 km) on airline Qantas Airways from Australia
+Found 5th freedom: NBO (Kenya) -> DXB (United Arab Emirates) (3559 km) on airline Qantas Airways from Australia
+Found 5th freedom: DYU (Tajikistan) -> LED (Russia) (3581 km) on airline SZA from Austria
+Found 5th freedom: LED (Russia) -> DYU (Tajikistan) (3581 km) on airline SZA from Austria
+Found 5th freedom: SXF (Germany) -> TFS (Spain) (3671 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: TFS (Spain) -> SXF (Germany) (3671 km) on airline EasyJet Airline from United Kingdom
+Found 5th freedom: GLA (United Kingdom) -> LCA (Cyprus) (3704 km) on airline  from France
+Found 5th freedom: LCA (Cyprus) -> GLA (United Kingdom) (3704 km) on airline  from France
+Found 5th freedom: GIG (Brazil) -> LIM (Peru) (3777 km) on airline TACA from Costa Rica
+Found 5th freedom: LIM (Peru) -> GIG (Brazil) (3777 km) on airline TACA from Costa Rica
+Found 5th freedom: BKK (Thailand) -> ULN (Mongolia) (3839 km) on airline Homer Sky from Germany
+Found 5th freedom: ULN (Mongolia) -> BKK (Thailand) (3839 km) on airline Homer Sky from Germany
+Found 5th freedom: LGW (United Kingdom) -> SSH (Egypt) (3866 km) on airline  from France
+Found 5th freedom: SSH (Egypt) -> LGW (United Kingdom) (3866 km) on airline  from France
+Found 5th freedom: SSH (Egypt) -> STN (United Kingdom) (3881 km) on airline  from France
+Found 5th freedom: STN (United Kingdom) -> SSH (Egypt) (3881 km) on airline  from France
+Found 5th freedom: EWR (United States) -> YVR (Canada) (3899 km) on airline ANA All Nippon Airways from Japan
+Found 5th freedom: YVR (Canada) -> EWR (United States) (3899 km) on airline ANA All Nippon Airways from Japan
+Found 5th freedom: HRG (Egypt) -> LGW (United Kingdom) (3900 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> HRG (Egypt) (3900 km) on airline  from France
+Found 5th freedom: PER (Australia) -> SIN (Singapore) (3911 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: SIN (Singapore) -> PER (Australia) (3911 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: LTN (United Kingdom) -> SSH (Egypt) (3916 km) on airline  from France
+Found 5th freedom: SSH (Egypt) -> LTN (United Kingdom) (3916 km) on airline  from France
+Found 5th freedom: HAV (Cuba) -> LIM (Peru) (3936 km) on airline TACA from Costa Rica
+Found 5th freedom: LIM (Peru) -> HAV (Cuba) (3936 km) on airline TACA from Costa Rica
+Found 5th freedom: BHX (United Kingdom) -> SSH (Egypt) (4030 km) on airline  from France
+Found 5th freedom: SSH (Egypt) -> BHX (United Kingdom) (4030 km) on airline  from France
+Found 5th freedom: AKL (New Zealand) -> PPT (French Polynesia) (4093 km) on airline Qantas Airways from Australia
+Found 5th freedom: PPT (French Polynesia) -> AKL (New Zealand) (4093 km) on airline Qantas Airways from Australia
+Found 5th freedom: LPA (Spain) -> OSL (Norway) (4105 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> LPA (Spain) (4105 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MAN (United Kingdom) -> SSH (Egypt) (4108 km) on airline  from France
+Found 5th freedom: SSH (Egypt) -> MAN (United Kingdom) (4108 km) on airline  from France
+Found 5th freedom: FRA (Germany) -> JED (Saudi Arabia) (4133 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: JED (Saudi Arabia) -> FRA (Germany) (4133 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: HRG (Egypt) -> MAN (United Kingdom) (4146 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> HRG (Egypt) (4146 km) on airline  from France
+Found 5th freedom: DXB (United Arab Emirates) -> WAW (Poland) (4156 km) on airline Qantas Airways from Australia
+Found 5th freedom: WAW (Poland) -> DXB (United Arab Emirates) (4156 km) on airline Qantas Airways from Australia
+Found 5th freedom: LGW (United Kingdom) -> SID (Cape Verde) (4325 km) on airline  from France
+Found 5th freedom: SID (Cape Verde) -> LGW (United Kingdom) (4325 km) on airline  from France
+Found 5th freedom: BVC (Cape Verde) -> LGW (United Kingdom) (4385 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> BVC (Cape Verde) (4385 km) on airline  from France
+Found 5th freedom: BHX (United Kingdom) -> BVC (Cape Verde) (4445 km) on airline  from France
+Found 5th freedom: BVC (Cape Verde) -> BHX (United Kingdom) (4445 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> SID (Cape Verde) (4449 km) on airline  from France
+Found 5th freedom: SID (Cape Verde) -> MAN (United Kingdom) (4449 km) on airline  from France
+Found 5th freedom: DXB (United Arab Emirates) -> PRG (Czech Republic) (4464 km) on airline Qantas Airways from Australia
+Found 5th freedom: PRG (Czech Republic) -> DXB (United Arab Emirates) (4464 km) on airline Qantas Airways from Australia
+Found 5th freedom: RIX (Latvia) -> TFS (Spain) (4507 km) on airline  from Netherlands
+Found 5th freedom: TFS (Spain) -> RIX (Latvia) (4507 km) on airline  from Netherlands
+Found 5th freedom: BVC (Cape Verde) -> MAN (United Kingdom) (4511 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> BVC (Cape Verde) (4511 km) on airline  from France
+Found 5th freedom: DXB (United Arab Emirates) -> MUC (Germany) (4564 km) on airline Qantas Airways from Australia
+Found 5th freedom: MUC (Germany) -> DXB (United Arab Emirates) (4564 km) on airline Qantas Airways from Australia
+Found 5th freedom: DOH (Qatar) -> FRA (Germany) (4587 km) on airline Swiss Airlines from Switzerland
+Found 5th freedom: FRA (Germany) -> DOH (Qatar) (4587 km) on airline Swiss Airlines from Switzerland
+Found 5th freedom: DXB (United Arab Emirates) -> ZRH (Switzerland) (4768 km) on airline Qantas Airways from Australia
+Found 5th freedom: ZRH (Switzerland) -> DXB (United Arab Emirates) (4768 km) on airline Qantas Airways from Australia
+Found 5th freedom: ARN (Sweden) -> DXB (United Arab Emirates) (4785 km) on airline Qantas Airways from Australia
+Found 5th freedom: DXB (United Arab Emirates) -> ARN (Sweden) (4785 km) on airline Qantas Airways from Australia
+Found 5th freedom: CPH (Denmark) -> DXB (United Arab Emirates) (4818 km) on airline Qantas Airways from Australia
+Found 5th freedom: DXB (United Arab Emirates) -> CPH (Denmark) (4818 km) on airline Qantas Airways from Australia
+Found 5th freedom: DYU (Tajikistan) -> FRA (Germany) (4826 km) on airline SZA from Austria
+Found 5th freedom: FRA (Germany) -> DYU (Tajikistan) (4826 km) on airline SZA from Austria
+Found 5th freedom: DXB (United Arab Emirates) -> FRA (Germany) (4845 km) on airline Qantas Airways from Australia
+Found 5th freedom: FRA (Germany) -> DXB (United Arab Emirates) (4845 km) on airline Qantas Airways from Australia
+Found 5th freedom: FRA (Germany) -> LOS (Nigeria) (4856 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: LOS (Nigeria) -> FRA (Germany) (4856 km) on airline SN Brussels Airlines from Belgium
+Found 5th freedom: DXB (United Arab Emirates) -> HAM (Germany) (4884 km) on airline Qantas Airways from Australia
+Found 5th freedom: HAM (Germany) -> DXB (United Arab Emirates) (4884 km) on airline Qantas Airways from Australia
+Found 5th freedom: BKK (Thailand) -> DXB (United Arab Emirates) (4904 km) on airline Qantas Airways from Australia
+Found 5th freedom: DXB (United Arab Emirates) -> BKK (Thailand) (4904 km) on airline Qantas Airways from Australia
+Found 5th freedom: DXB (United Arab Emirates) -> GVA (Switzerland) (4919 km) on airline Qantas Airways from Australia
+Found 5th freedom: GVA (Switzerland) -> DXB (United Arab Emirates) (4919 km) on airline Qantas Airways from Australia
+Found 5th freedom: DUS (Germany) -> DXB (United Arab Emirates) (5005 km) on airline Qantas Airways from Australia
+Found 5th freedom: DXB (United Arab Emirates) -> DUS (Germany) (5005 km) on airline Qantas Airways from Australia
+Found 5th freedom: HNL (United States) -> NAN (Fiji) (5107 km) on airline Qantas Airways from Australia
+Found 5th freedom: NAN (Fiji) -> HNL (United States) (5107 km) on airline Qantas Airways from Australia
+Found 5th freedom: ADD (Ethiopia) -> BKO (Mali) (5116 km) on airline SAA South African Airways from South Africa
+Found 5th freedom: BKO (Mali) -> ADD (Ethiopia) (5116 km) on airline SAA South African Airways from South Africa
+Found 5th freedom: AMS (Netherlands) -> AUH (United Arab Emirates) (5192 km) on airline TAP Air Portugal from Portugal
+Found 5th freedom: AUH (United Arab Emirates) -> AMS (Netherlands) (5192 km) on airline TAP Air Portugal from Portugal
+Found 5th freedom: BRU (Belgium) -> DLA (Cameroon) (5237 km) on airline Swiss Airlines from Switzerland
+Found 5th freedom: DLA (Cameroon) -> BRU (Belgium) (5237 km) on airline Swiss Airlines from Switzerland
+Found 5th freedom: BRU (Belgium) -> NSI (Cameroon) (5287 km) on airline Swiss Airlines from Switzerland
+Found 5th freedom: NSI (Cameroon) -> BRU (Belgium) (5287 km) on airline Swiss Airlines from Switzerland
+Found 5th freedom: HND (Japan) -> SIN (Singapore) (5300 km) on airline Qantas Airways from Australia
+Found 5th freedom: SIN (Singapore) -> HND (Japan) (5300 km) on airline Qantas Airways from Australia
+Found 5th freedom: MAN (United Kingdom) -> JFK (United States) (5362 km) on airline PIA Pakistan International from Pakistan
+Found 5th freedom: DXB (United Arab Emirates) -> LGW (United Kingdom) (5473 km) on airline Qantas Airways from Australia
+Found 5th freedom: LGW (United Kingdom) -> DXB (United Arab Emirates) (5473 km) on airline Qantas Airways from Australia
+Found 5th freedom: DXB (United Arab Emirates) -> LHR (United Kingdom) (5498 km) on airline Qantas Airways from Australia
+Found 5th freedom: LHR (United Kingdom) -> DXB (United Arab Emirates) (5498 km) on airline Qantas Airways from Australia
+Found 5th freedom: AUH (United Arab Emirates) -> LHR (United Kingdom) (5517 km) on airline TAP Air Portugal from Portugal
+Found 5th freedom: DXB (United Arab Emirates) -> KUL (Malaysia) (5549 km) on airline Qantas Airways from Australia
+Found 5th freedom: KUL (Malaysia) -> DXB (United Arab Emirates) (5549 km) on airline Qantas Airways from Australia
+Found 5th freedom: HKG (Hong Kong) -> CNS (Australia) (5568 km) on airline JAL Japan Airlines from Japan
+Found 5th freedom: BHX (United Kingdom) -> DXB (United Arab Emirates) (5603 km) on airline Qantas Airways from Australia
+Found 5th freedom: DXB (United Arab Emirates) -> BHX (United Kingdom) (5603 km) on airline Qantas Airways from Australia
+Found 5th freedom: DXB (United Arab Emirates) -> NCL (United Kingdom) (5653 km) on airline Qantas Airways from Australia
+Found 5th freedom: NCL (United Kingdom) -> DXB (United Arab Emirates) (5653 km) on airline Qantas Airways from Australia
+Found 5th freedom: DXB (United Arab Emirates) -> MAN (United Kingdom) (5655 km) on airline Qantas Airways from Australia
+Found 5th freedom: MAN (United Kingdom) -> DXB (United Arab Emirates) (5655 km) on airline Qantas Airways from Australia
+Found 5th freedom: DXB (United Arab Emirates) -> GLA (United Kingdom) (5841 km) on airline Qantas Airways from Australia
+Found 5th freedom: GLA (United Kingdom) -> DXB (United Arab Emirates) (5841 km) on airline Qantas Airways from Australia
+Found 5th freedom: DXB (United Arab Emirates) -> SIN (Singapore) (5847 km) on airline Qantas Airways from Australia
+Found 5th freedom: SIN (Singapore) -> DXB (United Arab Emirates) (5847 km) on airline Qantas Airways from Australia
+Found 5th freedom: DUB (Ireland) -> DXB (United Arab Emirates) (5919 km) on airline Qantas Airways from Australia
+Found 5th freedom: DXB (United Arab Emirates) -> DUB (Ireland) (5919 km) on airline Qantas Airways from Australia
+Found 5th freedom: EWR (United States) -> OSL (Norway) (5933 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> EWR (United States) (5933 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: AUH (United Arab Emirates) -> PEK (China) (5955 km) on airline ANA All Nippon Airways from Japan
+Found 5th freedom: MEL (Australia) -> SIN (Singapore) (6033 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: SIN (Singapore) -> MEL (Australia) (6033 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: AUH (United Arab Emirates) -> CMN (Morocco) (6053 km) on airline TAP Air Portugal from Portugal
+Found 5th freedom: CMN (Morocco) -> AUH (United Arab Emirates) (6053 km) on airline TAP Air Portugal from Portugal
+Found 5th freedom: BNE (Australia) -> SIN (Singapore) (6143 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: SIN (Singapore) -> BNE (Australia) (6143 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: CPH (Denmark) -> EWR (United States) (6207 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: EWR (United States) -> CPH (Denmark) (6207 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> YYZ (Canada) (6269 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: YYZ (Canada) -> CPH (Denmark) (6269 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: SIN (Singapore) -> SYD (Australia) (6293 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: SYD (Australia) -> SIN (Singapore) (6293 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: KUL (Malaysia) -> MEL (Australia) (6315 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: MEL (Australia) -> KUL (Malaysia) (6315 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: DKR (Senegal) -> IAD (United States) (6401 km) on airline SAA South African Airways from South Africa
+Found 5th freedom: IAD (United States) -> DKR (Senegal) (6401 km) on airline SAA South African Airways from South Africa
+Found 5th freedom: JFK (United States) -> MXP (Italy) (6413 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: MXP (Italy) -> JFK (United States) (6413 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: CPH (Denmark) -> IAD (United States) (6539 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: IAD (United States) -> CPH (Denmark) (6539 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: MAD (Spain) -> PUJ (Dominican Republic) (6570 km) on airline  from Congo (Kinshasa)
+Found 5th freedom: PUJ (Dominican Republic) -> MAD (Spain) (6570 km) on airline  from Congo (Kinshasa)
+Found 5th freedom: LAX (United States) -> PPT (French Polynesia) (6612 km) on airline Qantas Airways from Australia
+Found 5th freedom: PPT (French Polynesia) -> LAX (United States) (6612 km) on airline Qantas Airways from Australia
+Found 5th freedom: LAX (United States) -> LIM (Peru) (6721 km) on airline JAL Japan Airlines from Japan
+Found 5th freedom: LIM (Peru) -> LAX (United States) (6721 km) on airline JAL Japan Airlines from Japan
+Found 5th freedom: MAN (United Kingdom) -> PUJ (Dominican Republic) (6783 km) on airline  from France
+Found 5th freedom: CPH (Denmark) -> ORD (United States) (6854 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: ORD (United States) -> CPH (Denmark) (6854 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: LGW (United Kingdom) -> PUJ (Dominican Republic) (6897 km) on airline  from France
+Found 5th freedom: PUJ (Dominican Republic) -> LGW (United Kingdom) (6897 km) on airline  from France
+Found 5th freedom: CPH (Denmark) -> PEK (China) (7194 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: PEK (China) -> CPH (Denmark) (7194 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BKK (Thailand) -> SYD (Australia) (7515 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: SYD (Australia) -> BKK (Thailand) (7515 km) on airline Emirates Airlines from United Arab Emirates
+Found 5th freedom: GLA (United Kingdom) -> CUN (Mexico) (7620 km) on airline  from France
+Found 5th freedom: CUN (Mexico) -> MAN (United Kingdom) (7795 km) on airline  from France
+Found 5th freedom: MAN (United Kingdom) -> CUN (Mexico) (7795 km) on airline  from France
+Found 5th freedom: CUN (Mexico) -> MAD (Spain) (7961 km) on airline  from Congo (Kinshasa)
+Found 5th freedom: MAD (Spain) -> CUN (Mexico) (7961 km) on airline  from Congo (Kinshasa)
+Found 5th freedom: CUN (Mexico) -> LGW (United Kingdom) (7977 km) on airline  from France
+Found 5th freedom: LGW (United Kingdom) -> CUN (Mexico) (7977 km) on airline  from France
+Found 5th freedom: CPH (Denmark) -> PVG (China) (8277 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: PVG (China) -> CPH (Denmark) (8277 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BKK (Thailand) -> CPH (Denmark) (8637 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> BKK (Thailand) (8637 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: BKK (Thailand) -> OSL (Norway) (8671 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: OSL (Norway) -> BKK (Thailand) (8671 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> NRT (Japan) (8712 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: NRT (Japan) -> CPH (Denmark) (8712 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: CPH (Denmark) -> SFO (United States) (8807 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: SFO (United States) -> CPH (Denmark) (8807 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: LAX (United States) -> NAN (Fiji) (8892 km) on airline Qantas Airways from Australia
+Found 5th freedom: NAN (Fiji) -> LAX (United States) (8892 km) on airline Qantas Airways from Australia
+Found 5th freedom: AKL (New Zealand) -> SCL (Chile) (9653 km) on airline Qantas Airways from Australia
+Found 5th freedom: SCL (Chile) -> AKL (New Zealand) (9653 km) on airline Qantas Airways from Australia
+Found 5th freedom: LGW (United Kingdom) -> MRU (Mauritius) (9748 km) on airline  from France
+Found 5th freedom: MRU (Mauritius) -> LGW (United Kingdom) (9748 km) on airline  from France
+Found 5th freedom: CPH (Denmark) -> SIN (Singapore) (9968 km) on airline SAS Scandinavian Airlines from Sweden
+Found 5th freedom: SIN (Singapore) -> CPH (Denmark) (9968 km) on airline SAS Scandinavian Airlines from Sweden
